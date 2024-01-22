@@ -1,0 +1,61 @@
+.frequent-questions {
+
+    .frequent-questions__title {
+        margin-bottom: 6.125rem;
+    }
+
+    .questions__list {
+        display: flex;
+        flex-wrap: wrap;
+        grid-gap: 1.5rem 2.6875rem;
+    }
+
+    .questions__item {
+        border-bottom: 2px solid #17212B;
+
+        flex: 1 0 45%;
+
+        padding-bottom: 2rem;
+    }
+
+    .questions__item_question {
+        display: flex;
+        column-gap: 0.5rem;
+        justify-content: space-between;
+
+        svg {
+            cursor: pointer;
+
+            flex-shrink: 0;
+        }
+        &.show{
+            svg{
+                transform: rotate(180deg);
+            }
+        }
+    }
+    .questions__item_answer{
+        margin-top: 2rem;
+        max-height: 0px;
+        transition: max-height 0.25s ease-out;
+        overflow: hidden;
+        &.show{
+            max-height: 200px;
+            transition: max-height 0.5s ease-in;
+        }
+    }
+
+    .questions__item_title {
+        font-size: 2.5rem;
+        font-weight: 700;
+        font-family: 'Bebas Neue';
+    }
+}
+
+@media (max-width: 1024px) {
+    .frequent-questions {
+        .questions__item {
+            flex: 1 0 100%;
+        }
+    }
+}

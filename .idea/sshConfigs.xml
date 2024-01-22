@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="3.144.82.50" id="115479f1-52b4-416e-9028-6affd5f38a27" keyPath="C:\Users\pickn\PhpstormProjects\Trucklink\TrucklinkAndDoskausa.pem" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" />
+    </configs>
+  </component>
+</project>

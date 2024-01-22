@@ -1,0 +1,10 @@
+.link {
+    color: rgba(255, 255, 255, 0.4);
+
+    transition: 200ms;
+
+    &:hover,
+    &:active {
+        color: #FFFFFF;
+    }
+} 

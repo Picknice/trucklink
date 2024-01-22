@@ -1,0 +1,47 @@
+
+@font-face {
+    font-family: 'Inter';
+    src: url('../font/inter/Inter-Light.eot');
+    src: url('../font/inter/Inter-Light.eot?#iefix') format('embedded-opentype'),
+        url('../font/inter/Inter-Light.woff2') format('woff2'),
+        url('../font/inter/Inter-Light.woff') format('woff'),
+        url('../font/inter/Inter-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('Inter-Regular.eot');
+    src: local('Inter Regular'), local('../font/inter/Inter-Regular'),
+        url('../font/inter/Inter-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../font/inter/Inter-Regular.woff2') format('woff2'),
+        url('../font/inter/Inter-Regular.woff') format('woff'),
+        url('../font/inter/Inter-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('Inter-Medium.eot');
+    src: local('Inter Semi Bold'), local('../font/inter/Inter-Medium'),
+        url('../font/inter/Inter-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../font/inter/Inter-Medium.woff2') format('woff2'),
+        url('../font/inter/Inter-Medium.woff') format('woff'),
+        url('../font/inter/Inter-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url('BebasNeueBold.eot');
+    src: local('Bebas Neue Bold'), local('../font/bebas_neue/BebasNeueBold'),
+        url('../font/bebas_neue/BebasNeueBold.eot?#iefix') format('embedded-opentype'),
+        url('../font/bebas_neue/BebasNeueBold.woff2') format('woff2'),
+        url('../font/bebas_neue/BebasNeueBold.woff') format('woff'),
+        url('../font/bebas_neue/BebasNeueBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}

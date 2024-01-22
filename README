@@ -1,0 +1,4 @@
+Запуск сокет серверов
+sudo php /var/www/trucklink/backend/socket/chat.php start -d
+sudo php /var/www/trucklink/backend/socket/BrokersApplications.php start -d
+sudo php /var/www/doskausa/backend/Includes/Socket/reply.php start -d

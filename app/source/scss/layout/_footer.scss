@@ -1,0 +1,38 @@
+.footer {
+    margin-top: 6.25rem;
+
+    .footer__container {
+        border-top: 1px solid #17212B;
+
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+
+        padding: 3.25rem 0;
+
+        position: relative;
+
+        & > *:nth-child(2) {
+            position: absolute;
+            left: 50%;
+            
+            transform: translateX(-50%);
+        }
+    }
+}
+
+@media (max-width: 578px) {
+    .footer {
+        .footer__container {
+            flex-direction: column;
+            row-gap: 1.5rem;
+
+            & > *:nth-child(2) {
+                position: static;
+                left: auto;
+
+                transform: none;
+            }
+        }
+    }
+}

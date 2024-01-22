@@ -1,0 +1,103 @@
+.applicaton-create {
+    background: url("../img/application-background.png");
+    background-size: cover;
+    background-position: center center;
+
+    .applicaton-create__top {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+
+        position: relative;
+        min-height: 1vh;
+        margin-bottom: 6rem;
+    }
+
+    .applicaton-create__title {
+        position: absolute;
+        left: 50%;
+
+        transform: translateX(-50%);
+    }
+
+    .applicaton-create__link {
+        cursor: pointer;
+
+        display: flex;
+        align-items: center;
+        column-gap: 0.75rem;
+
+        svg {
+            path {
+                transition: 200ms;
+            }
+        }
+
+        &:hover {
+            svg {
+                path {
+                    fill: #fff;
+                }
+            }
+
+            .applicaton-create__href {
+                color: #fff;
+            }
+        }
+    }
+
+    .applicaton-create__href {
+        text-decoration: underline;
+    }
+
+
+    .applicaton-create__subtitle {
+        margin-bottom: 5rem;
+    }
+
+    .applicaton-create__form {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-gap: 1.87rem 1.625rem;
+
+        & > *:last-child {
+            margin-top: 1.87rem;
+        }
+    }
+
+    .applicaton-create__form_create {
+        grid-column: 2/3;
+
+        padding: 1.06rem;
+    }
+
+    .applicaton-create__ready {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        .applicaton-create__form_create {
+            margin-top: 4.75rem;
+            margin-bottom: 1.5rem;
+        }
+    }
+}
+
+@media (max-width: 1024px) {
+    .applicaton-create {
+    
+        .applicaton-create__form {
+            display: block;
+            width: 100%;
+            grid-template-columns: 1fr;
+            .input__block, .select{
+                margin-bottom: 1.5rem;
+            }
+        }
+
+        .applicaton-create__form_create {
+            grid-column: auto;
+            width: 100%;
+        }
+    }
+}

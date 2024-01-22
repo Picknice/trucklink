@@ -1,0 +1,62 @@
+#admin_cargo{
+  .status{
+    width: 14rem;
+  }
+  .city__from, .info_delivery{
+    width: 22rem;
+  }
+  .filterss{
+    z-index: 1;
+  }
+  .info_options{
+    cursor: pointer;
+  }
+  .string_orders{
+    .status{
+      background: #17212b;
+      border-color: #131a24;
+    }
+  }
+  .payments_filter, .payments_filter-price{
+    width: 15rem;
+  }
+  .filter_search {
+    height: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 10rem;
+    border: 2px solid #17212B;
+    background-color: #131a24;
+    font-weight: 200;
+    border-left: none;
+
+    input {
+      width: 5rem;
+      text-align: center;
+    }
+  }
+  .info_payment{
+    width: 15rem;
+    .info_price{
+      width: 10rem;
+    }
+  }
+  .info_last{
+    width: 10rem;
+  }
+  .info_gps, .info_options{
+    width: 5rem;
+  }
+  .info_pay_order{
+    width: 10rem;
+  }
+  .button__filter{
+    width: 6rem;
+  }
+  .admin_orders_table{
+    .select .select__input{
+      text-align: center;
+    }
+  }
+}

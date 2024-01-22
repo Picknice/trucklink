@@ -1,0 +1,18 @@
+.tabs{
+  .buttons{
+    .tab{
+
+    }
+    .tab.tab-active{
+
+    }
+  }
+  .list{
+    .tab{
+      display: none;
+    }
+    .tab.tab-active{
+      display: block;
+    }
+  }
+}

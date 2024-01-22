@@ -1,0 +1,30 @@
+.menu-block{
+  background: rgba(0, 0, 0, 0.7);
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 0;
+  opacity: 0;
+  bottom: 0;
+  z-index: 500;
+  color: white;
+  overflow: hidden;
+  .menu-content{
+    background: #17212B;
+    padding: 98px 83px;
+    width: 500px;
+    height: 100%;
+    .menu-item{
+      font-family: 'Bebas Neue';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 40px;
+      line-height: 48px;
+      margin-bottom: 26px;
+      &:hover{
+        color: #2a7ad4;
+        cursor: pointer;
+      }
+    }
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "require": {
+    "danog/madelineproto": "v7.x-dev"
+  }
+}

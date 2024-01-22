@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fbe1c038-81a7-43eb-a704-58df71cd53ef" name="TrucklinkAndDoskausa">
+        <fileTransfer accessType="SFTP" host="3.144.82.50" port="22" sshConfigId="115479f1-52b4-416e-9028-6affd5f38a27" sshConfig="ubuntu@3.144.82.50:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

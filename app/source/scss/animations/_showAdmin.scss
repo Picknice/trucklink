@@ -1,0 +1,13 @@
+.aniEl {
+    opacity: 0;
+    transform: translateY(8%);
+    transition: all 1s;
+
+
+}
+
+.aniEl._showAnimation {
+    opacity: 1;
+    transition: all 1s;
+    transform: translateY(0%);
+}

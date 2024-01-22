@@ -1,0 +1,58 @@
+.about-company {
+    margin-bottom: 11.5rem;
+
+    .about-company__title {
+        margin-bottom: 1.5rem;
+    }
+
+    .about-company__subtitle {
+        margin: 0 auto 7.25rem;
+
+        max-width: 39rem;
+    }
+
+    .about-company__people {
+        display: flex;
+        flex-wrap: wrap;
+        grid-gap: 1.5rem 1.25rem;
+    }
+
+    .about-company__people_item {
+        border-radius: 0.5rem;
+
+        flex: 1 0 30%;
+        width: 100%;
+    }
+
+    .about-company__people_img {
+        img {
+            object-fit: cover;
+
+            width: 100%;
+        }
+    }
+
+    .about-company__people_name {
+        line-height: 100%;
+
+        margin-top: 1.5rem;
+    }
+
+    .about-company__people_name {
+        font-family: 'Bebas Neue';
+        font-size: 2.5rem;
+        font-weight: 700;
+        line-height: 1;
+        
+        text-transform: uppercase;
+    }
+}
+
+@media (max-width: 1024px) {
+    .about-company {
+        .about-company__people_item {
+            flex: 1 0 100%;
+            margin-bottom: 5rem;
+        }
+    }
+}

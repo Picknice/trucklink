@@ -1,0 +1,1511 @@
+Logger:         	MadelineProto
+Logger:         	Copyright (C) 2016-2023 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Exception:      	fopen(/var/www/trucklink/backend/socket/session.madeline/lock): Failed to open stream: Permission denied in AsyncTools.php:249
+Exception:      	\danog\MadelineProto\Exception: fopen(/var/www/trucklink/backend/socket/session.madeline/lock): Failed to open stream: Permission denied in /var/www/trucklink/backend/mtproto/vendor/danog/madelineproto/src/danog/MadelineProto/AsyncTools.php:249
+Revision: 
+TL Trace:
+<br>
+exceptionErrorHandler()<br>
+AsyncTools.php(249):	fopen()<br>
+Serialization.php(120):	flock()<br>
+AbstractDriver.php(406):	Amp\{closure}()<br>
+AbstractDriver.php(542):	invokeMicrotasks()<br>
+Revolt\EventLoop\Internal\{closure}()<br>
+AbstractDriver.php(479):	start()<br>
+AbstractDriver.php(518):	invokeCallbacks()<br>
+Revolt\EventLoop\Internal\{closure}()<br>
+AbstractDriver.php(86):	start()<br>
+DriverSuspension.php(97):	Revolt\EventLoop\Internal\{closure}()<br>
+Future.php(251):    	suspend()<br>
+API.php(280):       	await()<br>
+API.php(164):       	connectToMadelineProto()<br>
+tg.php(16):         	__construct()<br>
+tg.php(214):        	__construct()
+MTProto:        	Prompting final serialization (SHUTDOWN)...
+MTProto:        	Done final serialization (SHUTDOWN)!
+Logger:         	MadelineProto
+Logger:         	Copyright (C) 2016-2023 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Exception:      	fopen(/var/www/trucklink/backend/socket/session.madeline/lock): Failed to open stream: Permission denied in AsyncTools.php:249
+Exception:      	\danog\MadelineProto\Exception: fopen(/var/www/trucklink/backend/socket/session.madeline/lock): Failed to open stream: Permission denied in /var/www/trucklink/backend/mtproto/vendor/danog/madelineproto/src/danog/MadelineProto/AsyncTools.php:249
+Revision: 
+TL Trace:
+<br>
+exceptionErrorHandler()<br>
+AsyncTools.php(249):	fopen()<br>
+Serialization.php(120):	flock()<br>
+AbstractDriver.php(406):	Amp\{closure}()<br>
+AbstractDriver.php(542):	invokeMicrotasks()<br>
+Revolt\EventLoop\Internal\{closure}()<br>
+AbstractDriver.php(479):	start()<br>
+AbstractDriver.php(518):	invokeCallbacks()<br>
+Revolt\EventLoop\Internal\{closure}()<br>
+AbstractDriver.php(86):	start()<br>
+DriverSuspension.php(97):	Revolt\EventLoop\Internal\{closure}()<br>
+Future.php(251):    	suspend()<br>
+API.php(280):       	await()<br>
+API.php(164):       	connectToMadelineProto()<br>
+tg.php(15):         	__construct()<br>
+tg.php(215):        	__construct()
+MTProto:        	Prompting final serialization (SHUTDOWN)...
+MTProto:        	Done final serialization (SHUTDOWN)!
+Logger:         	MadelineProto
+Logger:         	Copyright (C) 2016-2023 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Exception:      	fopen(/var/www/trucklink/backend/socket/session.madeline/lock): Failed to open stream: Permission denied in AsyncTools.php:249
+Exception:      	\danog\MadelineProto\Exception: fopen(/var/www/trucklink/backend/socket/session.madeline/lock): Failed to open stream: Permission denied in /var/www/trucklink/backend/mtproto/vendor/danog/madelineproto/src/danog/MadelineProto/AsyncTools.php:249
+Revision: 
+TL Trace:
+<br>
+exceptionErrorHandler()<br>
+AsyncTools.php(249):	fopen()<br>
+Serialization.php(120):	flock()<br>
+AbstractDriver.php(406):	Amp\{closure}()<br>
+AbstractDriver.php(542):	invokeMicrotasks()<br>
+Revolt\EventLoop\Internal\{closure}()<br>
+AbstractDriver.php(479):	start()<br>
+AbstractDriver.php(518):	invokeCallbacks()<br>
+Revolt\EventLoop\Internal\{closure}()<br>
+AbstractDriver.php(86):	start()<br>
+DriverSuspension.php(97):	Revolt\EventLoop\Internal\{closure}()<br>
+Future.php(251):    	suspend()<br>
+API.php(280):       	await()<br>
+API.php(164):       	connectToMadelineProto()<br>
+tg.php(16):         	__construct()<br>
+tg.php(216):        	__construct()
+MTProto:        	Prompting final serialization (SHUTDOWN)...
+MTProto:        	Done final serialization (SHUTDOWN)!
+Logger:         	MadelineProto
+Logger:         	Copyright (C) 2016-2023 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Exception:      	fopen(/var/www/trucklink/backend/socket/session.madeline/lock): Failed to open stream: Permission denied in AsyncTools.php:249
+Exception:      	\danog\MadelineProto\Exception: fopen(/var/www/trucklink/backend/socket/session.madeline/lock): Failed to open stream: Permission denied in /var/www/trucklink/backend/mtproto/vendor/danog/madelineproto/src/danog/MadelineProto/AsyncTools.php:249
+Revision: 
+TL Trace:
+<br>
+exceptionErrorHandler()<br>
+AsyncTools.php(249):	fopen()<br>
+Serialization.php(120):	flock()<br>
+AbstractDriver.php(406):	Amp\{closure}()<br>
+AbstractDriver.php(542):	invokeMicrotasks()<br>
+Revolt\EventLoop\Internal\{closure}()<br>
+AbstractDriver.php(479):	start()<br>
+AbstractDriver.php(518):	invokeCallbacks()<br>
+Revolt\EventLoop\Internal\{closure}()<br>
+AbstractDriver.php(86):	start()<br>
+DriverSuspension.php(97):	Revolt\EventLoop\Internal\{closure}()<br>
+Future.php(251):    	suspend()<br>
+API.php(280):       	await()<br>
+API.php(164):       	connectToMadelineProto()<br>
+tg.php(16):         	__construct()<br>
+tg.php(216):        	__construct()
+MTProto:        	Prompting final serialization (SHUTDOWN)...
+MTProto:        	Done final serialization (SHUTDOWN)!
+Logger:         	MadelineProto
+Logger:         	Copyright (C) 2016-2023 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+DataCenter:     	Disconnecting all before reconnect!
+DataCenter:     	Disconnecting all before reconnect!
+DataCenter:     	Disconnecting all before reconnect!
+DataCenter:     	Disconnecting all before reconnect!
+DataCenter:     	Disconnecting all before reconnect!
+DataCenter:     	Disconnecting all before reconnect!
+DataCenter:     	Disconnecting all before reconnect!
+DataCenter:     	Reconnecting to DC 1 (-1) from existing
+DataCenterConnection: 	Trying shared connection via tcp://149.154.175.60:443 main DC 1, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+Connection:     	Connecting to DC 1.0
+Session:        	Resetting session in DC 1.0...
+DataCenter:     	Reconnecting to DC 2 (-1) from existing
+DataCenterConnection: 	Trying shared connection via tcp://149.154.167.41:443 main DC 2, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+Connection:     	Connecting to DC 2.0
+Session:        	Resetting session in DC 2.0...
+DataCenter:     	Reconnecting to DC -2 (-1) from existing
+DataCenterConnection: 	Trying shared connection via tcp://149.154.167.222:443 main DC -2, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+Connection:     	Connecting to DC -2.0
+Session:        	Resetting session in DC -2.0...
+DataCenter:     	Reconnecting to DC 3 (-1) from existing
+DataCenterConnection: 	Trying shared connection via tcp://149.154.175.100:443 main DC 3, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+Connection:     	Connecting to DC 3.0
+Session:        	Resetting session in DC 3.0...
+DataCenter:     	Reconnecting to DC 4 (-1) from existing
+DataCenterConnection: 	Trying shared connection via tcp://149.154.167.92:443 main DC 4, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+Connection:     	Connecting to DC 4.0
+Session:        	Resetting session in DC 4.0...
+DataCenter:     	Reconnecting to DC -4 (-1) from existing
+DataCenterConnection: 	Trying shared connection via tcp://149.154.164.250:443 main DC -4, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+Connection:     	Connecting to DC -4.0
+Session:        	Resetting session in DC -4.0...
+DataCenter:     	Reconnecting to DC 5 (-1) from existing
+DataCenterConnection: 	Trying shared connection via tcp://91.108.56.190:443 main DC 5, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+Connection:     	Connecting to DC 5.0
+Session:        	Resetting session in DC 5.0...
+Connection:     	Connected to DC 1.0!
+DataCenterConnection: 	Restoring 0 messages to DC 1
+DataCenterConnection: 	Flushing pending messages, DC 1
+DataCenter:     	OK!
+PingLoop:       	Ping DC 1.0
+Connection:     	Connected to DC 3.0!
+DataCenterConnection: 	Restoring 0 messages to DC 3
+DataCenterConnection: 	Flushing pending messages, DC 3
+DataCenter:     	OK!
+PingLoop:       	Ping DC 3.0
+Connection:     	Connected to DC 2.0!
+DataCenterConnection: 	Restoring 0 messages to DC 2
+DataCenterConnection: 	Flushing pending messages, DC 2
+DataCenter:     	OK!
+PingLoop:       	Ping DC 2.0
+Connection:     	Connected to DC -4.0!
+Connection:     	Connecting to DC -4.1
+Session:        	Resetting session in DC -4.1...
+Connection:     	Connected to DC -2.0!
+Connection:     	Connecting to DC -2.1
+Session:        	Resetting session in DC -2.1...
+Connection:     	Connected to DC 4.0!
+DataCenterConnection: 	Restoring 0 messages to DC 4
+DataCenterConnection: 	Flushing pending messages, DC 4
+DataCenter:     	OK!
+PingLoop:       	Ping DC 4.0
+Connection:     	Connected to DC -2.1!
+Connection:     	Connecting to DC -2.2
+Session:        	Resetting session in DC -2.2...
+Connection:     	Connected to DC -4.1!
+Connection:     	Connecting to DC -4.2
+Session:        	Resetting session in DC -4.2...
+Connection:     	Connected to DC 5.0!
+DataCenterConnection: 	Restoring 0 messages to DC 5
+DataCenterConnection: 	Flushing pending messages, DC 5
+DataCenter:     	OK!
+PingLoop:       	Ping DC 5.0
+Connection:     	Connected to DC -2.2!
+Connection:     	Connecting to DC -2.3
+Session:        	Resetting session in DC -2.3...
+Connection:     	Connected to DC -4.2!
+Connection:     	Connecting to DC -4.3
+Session:        	Resetting session in DC -4.3...
+Connection:     	Connected to DC -2.3!
+Connection:     	Connecting to DC -2.4
+Session:        	Resetting session in DC -2.4...
+Connection:     	Connected to DC -4.3!
+Connection:     	Connecting to DC -4.4
+Session:        	Resetting session in DC -4.4...
+Connection:     	Connected to DC -2.4!
+DataCenterConnection: 	Restoring 0 messages to DC -2
+DataCenterConnection: 	Flushing pending messages, DC -2
+DataCenter:     	OK!
+Connection:     	Connected to DC -4.4!
+DataCenterConnection: 	Restoring 0 messages to DC -4
+DataCenterConnection: 	Flushing pending messages, DC -4
+DataCenter:     	OK!
+MTProto:        	Initing authorization...
+DataCenterConnection: 	Initing auth for DC 2
+DataCenterConnection: 	Initing auth for DC 1
+DataCenterConnection: 	Initing auth for DC 3
+DataCenterConnection: 	Initing auth for DC 4
+DataCenterConnection: 	Initing auth for DC 5
+PingLoop:       	Ping DC 2.0
+PingLoop:       	Ping DC 1.0
+PingLoop:       	Ping DC 3.0
+PingLoop:       	Ping DC 4.0
+DataCenterConnection: 	Initing auth for DC -2
+DataCenterConnection: 	Initing auth for DC -4
+MTProto:        	Done initing authorization!
+MTProto:        	Starting update system
+DataCenterConnection: 	Flushing pending messages, DC 2
+DataCenterConnection: 	Flushing pending messages, DC 1
+DataCenterConnection: 	Flushing pending messages, DC -2
+DataCenterConnection: 	Flushing pending messages, DC 3
+DataCenterConnection: 	Flushing pending messages, DC 4
+DataCenterConnection: 	Flushing pending messages, DC -4
+DataCenterConnection: 	Flushing pending messages, DC 5
+MTProto:        	Initing auth 2
+AuthLoop:       	Waiting for auth in update feed loop generic
+MTProto:        	Initing auth 2
+AuthLoop:       	Waiting for auth in getUpdate loop generic
+MTProto:        	Initing auth 2
+AuthLoop:       	Waiting for auth in update seq loop
+DataCenter:     	Reconnecting to DC 2 (-1) from existing
+DataCenterConnection: 	Trying shared connection via tcp://149.154.167.41:443 main DC 2, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+DataCenterConnection: 	Already connected!
+DataCenter:     	OK!
+DataCenter:     	Reconnecting to DC 1 (-1) from existing
+DataCenterConnection: 	Trying shared connection via tcp://149.154.175.60:443 main DC 1, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+DataCenterConnection: 	Already connected!
+DataCenter:     	OK!
+DataCenter:     	Reconnecting to DC -2 (-1) from existing
+DataCenterConnection: 	Trying shared connection via tcp://149.154.167.222:443 main DC -2, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+DataCenterConnection: 	Already connected!
+DataCenter:     	OK!
+DataCenter:     	Reconnecting to DC 3 (-1) from existing
+DataCenterConnection: 	Trying shared connection via tcp://149.154.175.100:443 main DC 3, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+DataCenterConnection: 	Already connected!
+DataCenter:     	OK!
+DataCenter:     	Reconnecting to DC 4 (-1) from existing
+DataCenterConnection: 	Trying shared connection via tcp://149.154.167.92:443 main DC 4, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+DataCenterConnection: 	Already connected!
+DataCenter:     	OK!
+DataCenter:     	Reconnecting to DC -4 (-1) from existing
+DataCenterConnection: 	Trying shared connection via tcp://149.154.164.250:443 main DC -4, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+DataCenterConnection: 	Already connected!
+DataCenter:     	OK!
+DataCenter:     	Reconnecting to DC 5 (-1) from existing
+DataCenterConnection: 	Trying shared connection via tcp://91.108.56.190:443 main DC 5, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+DataCenterConnection: 	Already connected!
+DataCenter:     	OK!
+MTProto:        	Initing authorization...
+DataCenterConnection: 	Initing auth for DC 2
+DataCenterConnection: 	Initing auth for DC 1
+DataCenterConnection: 	Initing auth for DC 3
+DataCenterConnection: 	Initing auth for DC 4
+DataCenterConnection: 	Initing auth for DC 5
+DataCenterConnection: 	Initing auth for DC -2
+DataCenterConnection: 	Initing auth for DC -4
+MTProto:        	Done initing authorization!
+MTProto:        	Starting update system
+DataCenterConnection: 	Flushing pending messages, DC 2
+DataCenterConnection: 	Flushing pending messages, DC 1
+DataCenterConnection: 	Flushing pending messages, DC -2
+DataCenterConnection: 	Flushing pending messages, DC 3
+DataCenterConnection: 	Flushing pending messages, DC 4
+DataCenterConnection: 	Flushing pending messages, DC -4
+DataCenterConnection: 	Flushing pending messages, DC 5
+MTProto:        	Initing auth 2
+AuthLoop:       	Waiting for auth in update feed loop generic
+MTProto:        	Initing auth 2
+AuthLoop:       	Waiting for auth in getUpdate loop generic
+MTProto:        	Initing auth 2
+AuthLoop:       	Waiting for auth in update seq loop
+MTProto:        	Initing authorization...
+DataCenterConnection: 	Initing auth for DC 2
+DataCenterConnection: 	Initing auth for DC 1
+DataCenterConnection: 	Initing auth for DC 3
+DataCenterConnection: 	Initing auth for DC 4
+DataCenterConnection: 	Initing auth for DC 5
+PingLoop:       	Ping DC 1.0
+DataCenterConnection: 	Initing auth for DC -2
+DataCenterConnection: 	Initing auth for DC -4
+MTProto:        	Done initing authorization!
+MTProto:        	Starting update system
+DataCenterConnection: 	Flushing pending messages, DC 2
+DataCenterConnection: 	Flushing pending messages, DC 1
+DataCenterConnection: 	Flushing pending messages, DC -2
+DataCenterConnection: 	Flushing pending messages, DC 3
+DataCenterConnection: 	Flushing pending messages, DC 4
+DataCenterConnection: 	Flushing pending messages, DC -4
+DataCenterConnection: 	Flushing pending messages, DC 5
+AckHandler:     	Could not find users.getUsers with message ID 7190463453293707268 in new_outgoing!
+MTProto:        	Initing auth 2
+AuthLoop:       	Waiting for auth in update feed loop generic
+MTProto:        	Initing auth 2
+AuthLoop:       	Waiting for auth in getUpdate loop generic
+MTProto:        	Initing auth 2
+AuthLoop:       	Waiting for auth in update seq loop
+MTProto:        	AUTH_KEY_UNREGISTERED
+MTProto:        	Starting update system
+DataCenterConnection: 	Flushing pending messages, DC 2
+DataCenterConnection: 	Flushing pending messages, DC 1
+DataCenterConnection: 	Flushing pending messages, DC -2
+DataCenterConnection: 	Flushing pending messages, DC 3
+DataCenterConnection: 	Flushing pending messages, DC 4
+DataCenterConnection: 	Flushing pending messages, DC -4
+DataCenterConnection: 	Flushing pending messages, DC 5
+API:            	MadelineProto is ready!
+SessionPaths:   	Waiting for exclusive lock of /var/www/trucklink/backend/socket/session.madeline/ipcState.php.lock...
+SessionPaths:   	Waiting for exclusive lock of /var/www/trucklink/backend/socket/session.madeline/safe.php.lock...
+SessionPaths:   	Got exclusive lock of /var/www/trucklink/backend/socket/session.madeline/safe.php.lock...
+SessionPaths:   	Got exclusive lock of /var/www/trucklink/backend/socket/session.madeline/ipcState.php.lock...
+MTProto:        	Initing auth 2
+AuthLoop:       	Waiting for auth in update feed loop generic
+MTProto:        	Initing auth 2
+AuthLoop:       	Waiting for auth in getUpdate loop generic
+MTProto:        	Initing auth 2
+AuthLoop:       	Waiting for auth in update seq loop
+MTProto:        	Accepted IPC client connection!
+SessionPaths:   	Waiting for exclusive lock of /var/www/trucklink/backend/socket/session.madeline/lightState.php.lock...
+SessionPaths:   	Got exclusive lock of /var/www/trucklink/backend/socket/session.madeline/lightState.php.lock...
+APIWrapper:     	Saved session!
+Session:        	Garbage collected 8 incoming messages in DC 1, 0 left
+Session:        	Garbage collected 6 outgoing messages in DC 1, 0 left
+Session:        	Garbage collected 4 incoming messages in DC 3, 0 left
+Session:        	Garbage collected 3 outgoing messages in DC 3, 0 left
+Session:        	Garbage collected 4 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 3 outgoing messages in DC 2, 0 left
+Session:        	Garbage collected 4 incoming messages in DC 4, 0 left
+Session:        	Garbage collected 3 outgoing messages in DC 4, 0 left
+Session:        	Garbage collected 3 incoming messages in DC 5, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 5, 0 left
+GarbageCollector: 	gc_collect_cycles done. Cleaned memory: 0 Mb
+Connection:     	Connecting to DC -2.5
+Session:        	Resetting session in DC -2.5...
+Connection:     	Connecting to DC -4.5
+Session:        	Resetting session in DC -4.5...
+Connection:     	Connected to DC -4.5!
+Connection:     	Connecting to DC -4.6
+Session:        	Resetting session in DC -4.6...
+Connection:     	Connected to DC -2.5!
+Connection:     	Connecting to DC -2.6
+Session:        	Resetting session in DC -2.6...
+Connection:     	Connected to DC -4.6!
+Connection:     	Connected to DC -2.6!
+Login:          	Sending code...
+SessionPaths:   	Waiting for exclusive lock of /var/www/trucklink/backend/socket/session.madeline/safe.php.lock...
+SessionPaths:   	Got exclusive lock of /var/www/trucklink/backend/socket/session.madeline/safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of /var/www/trucklink/backend/socket/session.madeline/lightState.php.lock...
+SessionPaths:   	Got exclusive lock of /var/www/trucklink/backend/socket/session.madeline/lightState.php.lock...
+APIWrapper:     	Saved session!
+MTProto:        	Got error while calling IPC method: Telegram returned an RPC error:  (400) (API_ID_INVALID), caused by /var/www/trucklink/backend/mtproto/vendor/danog/madelineproto/src/danog/MadelineProto/MTProtoSession/ResponseHandler.php:379
+Revision: 
+
+TL trace:
+['auth.sendCode']
+ResponseHandler.php(196):	handleRpcError()
+ResponseHandler.php(77):	handleResponse()
+AbstractDriver.php(577):	handleMessages()
+Revolt\EventLoop\Internal\{closure}()
+AbstractDriver.php(478):	resume()
+AbstractDriver.php(533):	invokeCallbacks()
+Revolt\EventLoop\Internal\{closure}()
+AbstractDriver.php(86):	resume()
+DriverSuspension.php(97):	Revolt\EventLoop\Internal\{closure}()
+Future.php(251):    	suspend()
+Server.php(156):    	await()
+entry.php(116):     	waitShutdown()
+entry.php(147):     	{closure}()
+
+Session:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 1, 0 left
+MTProto:        	Accepted IPC client connection!
+Connection:     	Connecting to DC -4.7
+Session:        	Resetting session in DC -4.7...
+Connection:     	Connecting to DC -2.7
+Session:        	Resetting session in DC -2.7...
+Connection:     	Connected to DC -4.7!
+Connection:     	Connecting to DC -4.8
+Session:        	Resetting session in DC -4.8...
+Connection:     	Connected to DC -2.7!
+Connection:     	Connecting to DC -2.8
+Session:        	Resetting session in DC -2.8...
+Connection:     	Connected to DC -4.8!
+Connection:     	Connected to DC -2.8!
+PingLoop:       	Ping DC 3.0
+PingLoop:       	Ping DC 1.0
+SessionPaths:   	Waiting for exclusive lock of /var/www/trucklink/backend/socket/session.madeline/safe.php.lock...
+SessionPaths:   	Got exclusive lock of /var/www/trucklink/backend/socket/session.madeline/safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of /var/www/trucklink/backend/socket/session.madeline/lightState.php.lock...
+SessionPaths:   	Got exclusive lock of /var/www/trucklink/backend/socket/session.madeline/lightState.php.lock...
+APIWrapper:     	Saved session!
+PingLoop:       	Ping DC 4.0
+PingLoop:       	Ping DC 2.0
+PingLoop:       	Ping DC 5.0
+Session:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 1, 0 left
+Session:        	Garbage collected 1 incoming messages in DC 3, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 3, 0 left
+Session:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 2, 0 left
+Session:        	Garbage collected 1 incoming messages in DC 4, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 4, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 5, 1 left
+Session:        	Garbage collected 1 incoming messages in DC 5, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 5, 0 left
+MTProto:        	Accepted IPC client connection!
+Connection:     	Connecting to DC -4.9
+Session:        	Resetting session in DC -4.9...
+Connection:     	Connecting to DC -2.9
+Session:        	Resetting session in DC -2.9...
+Connection:     	Connected to DC -4.9!
+Connection:     	Connecting to DC -4.10
+Session:        	Resetting session in DC -4.10...
+Connection:     	Connected to DC -2.9!
+Connection:     	Connecting to DC -2.10
+Session:        	Resetting session in DC -2.10...
+GarbageCollector: 	gc_collect_cycles done. Cleaned memory: 0 Mb
+Connection:     	Connected to DC -4.10!
+Connection:     	Connected to DC -2.10!
+Login:          	Sending code...
+MTProto:        	Got error while calling IPC method: Telegram returned an RPC error:  (400) (API_ID_INVALID), caused by /var/www/trucklink/backend/mtproto/vendor/danog/madelineproto/src/danog/MadelineProto/MTProtoSession/ResponseHandler.php:379
+Revision: 
+
+TL trace:
+['auth.sendCode']
+ResponseHandler.php(196):	handleRpcError()
+ResponseHandler.php(77):	handleResponse()
+AbstractDriver.php(577):	handleMessages()
+Revolt\EventLoop\Internal\{closure}()
+AbstractDriver.php(478):	resume()
+AbstractDriver.php(533):	invokeCallbacks()
+Revolt\EventLoop\Internal\{closure}()
+AbstractDriver.php(86):	resume()
+DriverSuspension.php(97):	Revolt\EventLoop\Internal\{closure}()
+Future.php(251):    	suspend()
+Server.php(156):    	await()
+entry.php(116):     	waitShutdown()
+entry.php(147):     	{closure}()
+
+Session:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 1, 0 left
+SessionPaths:   	Waiting for exclusive lock of /var/www/trucklink/backend/socket/session.madeline/safe.php.lock...
+SessionPaths:   	Got exclusive lock of /var/www/trucklink/backend/socket/session.madeline/safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of /var/www/trucklink/backend/socket/session.madeline/lightState.php.lock...
+SessionPaths:   	Got exclusive lock of /var/www/trucklink/backend/socket/session.madeline/lightState.php.lock...
+APIWrapper:     	Saved session!
+SessionPaths:   	Waiting for exclusive lock of /var/www/trucklink/backend/socket/session.madeline/safe.php.lock...
+SessionPaths:   	Got exclusive lock of /var/www/trucklink/backend/socket/session.madeline/safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of /var/www/trucklink/backend/socket/session.madeline/lightState.php.lock...
+SessionPaths:   	Got exclusive lock of /var/www/trucklink/backend/socket/session.madeline/lightState.php.lock...
+APIWrapper:     	Saved session!
+PingLoop:       	Ping DC 1.0
+PingLoop:       	Ping DC 3.0
+PingLoop:       	Ping DC 4.0
+PingLoop:       	Ping DC 2.0
+Session:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 1, 0 left
+Session:        	Garbage collected 1 incoming messages in DC 3, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 3, 0 left
+Session:        	Garbage collected 0 outgoing messages in DC 2, 1 left
+Session:        	Garbage collected 1 incoming messages in DC 4, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 4, 0 left
+PingLoop:       	Ping DC 5.0
+Session:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 2, 0 left
+Session:        	Garbage collected 1 incoming messages in DC 5, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 5, 0 left
+SessionPaths:   	Waiting for exclusive lock of /var/www/trucklink/backend/socket/session.madeline/safe.php.lock...
+SessionPaths:   	Got exclusive lock of /var/www/trucklink/backend/socket/session.madeline/safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of /var/www/trucklink/backend/socket/session.madeline/lightState.php.lock...
+SessionPaths:   	Got exclusive lock of /var/www/trucklink/backend/socket/session.madeline/lightState.php.lock...
+APIWrapper:     	Saved session!
+SessionPaths:   	Waiting for exclusive lock of /var/www/trucklink/backend/socket/session.madeline/safe.php.lock...
+SessionPaths:   	Got exclusive lock of /var/www/trucklink/backend/socket/session.madeline/safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of /var/www/trucklink/backend/socket/session.madeline/lightState.php.lock...
+SessionPaths:   	Got exclusive lock of /var/www/trucklink/backend/socket/session.madeline/lightState.php.lock...
+APIWrapper:     	Saved session!
+PingLoop:       	Ping DC 1.0
+PingLoop:       	Ping DC 3.0
+PingLoop:       	Ping DC 4.0
+Session:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 1, 0 left
+Session:        	Garbage collected 1 incoming messages in DC 3, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 3, 0 left
+Session:        	Garbage collected 0 outgoing messages in DC 4, 1 left
+PingLoop:       	Ping DC 2.0
+PingLoop:       	Ping DC 5.0
+Session:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 2, 0 left
+Session:        	Garbage collected 1 incoming messages in DC 4, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 4, 0 left
+Session:        	Garbage collected 0 outgoing messages in DC 5, 1 left
+Session:        	Garbage collected 1 incoming messages in DC 5, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 5, 0 left
+SessionPaths:   	Waiting for exclusive lock of /var/www/trucklink/backend/socket/session.madeline/safe.php.lock...
+SessionPaths:   	Got exclusive lock of /var/www/trucklink/backend/socket/session.madeline/safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of /var/www/trucklink/backend/socket/session.madeline/lightState.php.lock...
+SessionPaths:   	Got exclusive lock of /var/www/trucklink/backend/socket/session.madeline/lightState.php.lock...
+APIWrapper:     	Saved session!
+SessionPaths:   	Waiting for exclusive lock of /var/www/trucklink/backend/socket/session.madeline/safe.php.lock...
+SessionPaths:   	Got exclusive lock of /var/www/trucklink/backend/socket/session.madeline/safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of /var/www/trucklink/backend/socket/session.madeline/lightState.php.lock...
+SessionPaths:   	Got exclusive lock of /var/www/trucklink/backend/socket/session.madeline/lightState.php.lock...
+APIWrapper:     	Saved session!
+PingLoop:       	Ping DC 1.0
+PingLoop:       	Ping DC 3.0
+Session:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 1, 0 left
+Session:        	Garbage collected 1 incoming messages in DC 3, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 3, 0 left
+PingLoop:       	Ping DC 4.0
+PingLoop:       	Ping DC 2.0
+Session:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 2, 0 left
+Session:        	Garbage collected 1 incoming messages in DC 4, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 4, 0 left
+PingLoop:       	Ping DC 5.0
+Session:        	Garbage collected 1 incoming messages in DC 5, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 5, 0 left
+SessionPaths:   	Waiting for exclusive lock of /var/www/trucklink/backend/socket/session.madeline/safe.php.lock...
+SessionPaths:   	Got exclusive lock of /var/www/trucklink/backend/socket/session.madeline/safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of /var/www/trucklink/backend/socket/session.madeline/lightState.php.lock...
+SessionPaths:   	Got exclusive lock of /var/www/trucklink/backend/socket/session.madeline/lightState.php.lock...
+APIWrapper:     	Saved session!
+SessionPaths:   	Waiting for exclusive lock of /var/www/trucklink/backend/socket/session.madeline/safe.php.lock...
+SessionPaths:   	Got exclusive lock of /var/www/trucklink/backend/socket/session.madeline/safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of /var/www/trucklink/backend/socket/session.madeline/lightState.php.lock...
+SessionPaths:   	Got exclusive lock of /var/www/trucklink/backend/socket/session.madeline/lightState.php.lock...
+APIWrapper:     	Saved session!
+PingLoop:       	Ping DC 1.0
+PingLoop:       	Ping DC 3.0
+Session:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 1, 0 left
+Session:        	Garbage collected 1 incoming messages in DC 3, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 3, 0 left
+PingLoop:       	Ping DC 4.0
+PingLoop:       	Ping DC 2.0
+Session:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 2, 0 left
+Session:        	Garbage collected 1 incoming messages in DC 4, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 4, 0 left
+PingLoop:       	Ping DC 5.0
+Session:        	Garbage collected 0 outgoing messages in DC 5, 1 left
+Session:        	Garbage collected 1 incoming messages in DC 5, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 5, 0 left
+SessionPaths:   	Waiting for exclusive lock of /var/www/trucklink/backend/socket/session.madeline/safe.php.lock...
+SessionPaths:   	Got exclusive lock of /var/www/trucklink/backend/socket/session.madeline/safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of /var/www/trucklink/backend/socket/session.madeline/lightState.php.lock...
+SessionPaths:   	Got exclusive lock of /var/www/trucklink/backend/socket/session.madeline/lightState.php.lock...
+APIWrapper:     	Saved session!
+SessionPaths:   	Waiting for exclusive lock of /var/www/trucklink/backend/socket/session.madeline/safe.php.lock...
+SessionPaths:   	Got exclusive lock of /var/www/trucklink/backend/socket/session.madeline/safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of /var/www/trucklink/backend/socket/session.madeline/lightState.php.lock...
+SessionPaths:   	Got exclusive lock of /var/www/trucklink/backend/socket/session.madeline/lightState.php.lock...
+APIWrapper:     	Saved session!
+PingLoop:       	Ping DC 1.0
+PingLoop:       	Ping DC 3.0
+Session:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 1, 0 left
+Session:        	Garbage collected 1 incoming messages in DC 3, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 3, 0 left
+PingLoop:       	Ping DC 4.0
+PingLoop:       	Ping DC 2.0
+Session:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 2, 0 left
+Session:        	Garbage collected 1 incoming messages in DC 4, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 4, 0 left
+PingLoop:       	Ping DC 5.0
+Session:        	Garbage collected 1 incoming messages in DC 5, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 5, 0 left
+Logger:         	MadelineProto
+Logger:         	Copyright (C) 2016-2023 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+DataCenter, AlbatrossMarket:     	Disconnecting all before reconnect!
+DataCenter, AlbatrossMarket:     	Disconnecting all before reconnect!
+DataCenter, AlbatrossMarket:     	Disconnecting all before reconnect!
+DataCenter, AlbatrossMarket:     	Disconnecting all before reconnect!
+DataCenter, AlbatrossMarket:     	Disconnecting all before reconnect!
+DataCenter, AlbatrossMarket:     	Disconnecting all before reconnect!
+DataCenter, AlbatrossMarket:     	Disconnecting all before reconnect!
+DataCenter, AlbatrossMarket:     	Reconnecting to DC 1 (-1) from existing
+DataCenterConnection, AlbatrossMarket: 	Trying shared connection via tcp://149.154.175.60:443 main DC 1, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+Connection, AlbatrossMarket:     	Connecting to DC 1.0
+Session, AlbatrossMarket:        	Resetting session in DC 1.0...
+DataCenter, AlbatrossMarket:     	Reconnecting to DC 2 (-1) from existing
+DataCenterConnection, AlbatrossMarket: 	Trying shared connection via tcp://149.154.167.41:443 main DC 2, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+Connection, AlbatrossMarket:     	Connecting to DC 2.0
+Session, AlbatrossMarket:        	Resetting session in DC 2.0...
+DataCenter, AlbatrossMarket:     	Reconnecting to DC -2 (-1) from existing
+DataCenterConnection, AlbatrossMarket: 	Trying shared connection via tcp://149.154.167.222:443 main DC -2, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+Connection, AlbatrossMarket:     	Connecting to DC -2.0
+Session, AlbatrossMarket:        	Resetting session in DC -2.0...
+DataCenter, AlbatrossMarket:     	Reconnecting to DC 3 (-1) from existing
+DataCenterConnection, AlbatrossMarket: 	Trying shared connection via tcp://149.154.175.100:443 main DC 3, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+Connection, AlbatrossMarket:     	Connecting to DC 3.0
+Session, AlbatrossMarket:        	Resetting session in DC 3.0...
+DataCenter, AlbatrossMarket:     	Reconnecting to DC 4 (-1) from existing
+DataCenterConnection, AlbatrossMarket: 	Trying shared connection via tcp://149.154.167.92:443 main DC 4, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+Connection, AlbatrossMarket:     	Connecting to DC 4.0
+Session, AlbatrossMarket:        	Resetting session in DC 4.0...
+DataCenter, AlbatrossMarket:     	Reconnecting to DC -4 (-1) from existing
+DataCenterConnection, AlbatrossMarket: 	Trying shared connection via tcp://149.154.164.250:443 main DC -4, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+Connection, AlbatrossMarket:     	Connecting to DC -4.0
+Session, AlbatrossMarket:        	Resetting session in DC -4.0...
+DataCenter, AlbatrossMarket:     	Reconnecting to DC 5 (-1) from existing
+DataCenterConnection, AlbatrossMarket: 	Trying shared connection via tcp://91.108.56.190:443 main DC 5, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+Connection, AlbatrossMarket:     	Connecting to DC 5.0
+Session, AlbatrossMarket:        	Resetting session in DC 5.0...
+Connection, AlbatrossMarket:     	Connected to DC 1.0!
+DataCenterConnection, AlbatrossMarket: 	Restoring 0 messages to DC 1
+DataCenterConnection, AlbatrossMarket: 	Flushing pending messages, DC 1
+DataCenter, AlbatrossMarket:     	OK!
+PingLoop, AlbatrossMarket:       	Ping DC 1.0
+Connection, AlbatrossMarket:     	Connected to DC 3.0!
+DataCenterConnection, AlbatrossMarket: 	Restoring 0 messages to DC 3
+DataCenterConnection, AlbatrossMarket: 	Flushing pending messages, DC 3
+DataCenter, AlbatrossMarket:     	OK!
+PingLoop, AlbatrossMarket:       	Ping DC 3.0
+Connection, AlbatrossMarket:     	Connected to DC 2.0!
+DataCenterConnection, AlbatrossMarket: 	Restoring 0 messages to DC 2
+DataCenterConnection, AlbatrossMarket: 	Flushing pending messages, DC 2
+DataCenter, AlbatrossMarket:     	OK!
+PingLoop, AlbatrossMarket:       	Ping DC 2.0
+Connection, AlbatrossMarket:     	Connected to DC -2.0!
+Connection, AlbatrossMarket:     	Connecting to DC -2.1
+Session, AlbatrossMarket:        	Resetting session in DC -2.1...
+Connection, AlbatrossMarket:     	Connected to DC 4.0!
+DataCenterConnection, AlbatrossMarket: 	Restoring 0 messages to DC 4
+DataCenterConnection, AlbatrossMarket: 	Flushing pending messages, DC 4
+DataCenter, AlbatrossMarket:     	OK!
+PingLoop, AlbatrossMarket:       	Ping DC 4.0
+Connection, AlbatrossMarket:     	Connected to DC -4.0!
+Connection, AlbatrossMarket:     	Connecting to DC -4.1
+Session, AlbatrossMarket:        	Resetting session in DC -4.1...
+Connection, AlbatrossMarket:     	Connected to DC -2.1!
+Connection, AlbatrossMarket:     	Connecting to DC -2.2
+Session, AlbatrossMarket:        	Resetting session in DC -2.2...
+Connection, AlbatrossMarket:     	Connected to DC -4.1!
+Connection, AlbatrossMarket:     	Connecting to DC -4.2
+Session, AlbatrossMarket:        	Resetting session in DC -4.2...
+Connection, AlbatrossMarket:     	Connected to DC 5.0!
+DataCenterConnection, AlbatrossMarket: 	Restoring 0 messages to DC 5
+DataCenterConnection, AlbatrossMarket: 	Flushing pending messages, DC 5
+DataCenter, AlbatrossMarket:     	OK!
+PingLoop, AlbatrossMarket:       	Ping DC 5.0
+Connection, AlbatrossMarket:     	Connected to DC -2.2!
+Connection, AlbatrossMarket:     	Connecting to DC -2.3
+Session, AlbatrossMarket:        	Resetting session in DC -2.3...
+Connection, AlbatrossMarket:     	Connected to DC -4.2!
+Connection, AlbatrossMarket:     	Connecting to DC -4.3
+Session, AlbatrossMarket:        	Resetting session in DC -4.3...
+Connection, AlbatrossMarket:     	Connected to DC -2.3!
+Connection, AlbatrossMarket:     	Connecting to DC -2.4
+Session, AlbatrossMarket:        	Resetting session in DC -2.4...
+Connection, AlbatrossMarket:     	Connected to DC -4.3!
+Connection, AlbatrossMarket:     	Connecting to DC -4.4
+Session, AlbatrossMarket:        	Resetting session in DC -4.4...
+Connection, AlbatrossMarket:     	Connected to DC -2.4!
+DataCenterConnection, AlbatrossMarket: 	Restoring 0 messages to DC -2
+DataCenterConnection, AlbatrossMarket: 	Flushing pending messages, DC -2
+DataCenter, AlbatrossMarket:     	OK!
+Connection, AlbatrossMarket:     	Connected to DC -4.4!
+DataCenterConnection, AlbatrossMarket: 	Restoring 0 messages to DC -4
+DataCenterConnection, AlbatrossMarket: 	Flushing pending messages, DC -4
+DataCenter, AlbatrossMarket:     	OK!
+MTProto, AlbatrossMarket:        	Initing authorization...
+DataCenterConnection, AlbatrossMarket: 	Initing auth for DC 2
+DataCenterConnection, AlbatrossMarket: 	Initing auth for DC 1
+DataCenterConnection, AlbatrossMarket: 	Initing auth for DC 3
+DataCenterConnection, AlbatrossMarket: 	Initing auth for DC 4
+DataCenterConnection, AlbatrossMarket: 	Initing auth for DC 5
+PingLoop, AlbatrossMarket:       	Ping DC 2.0
+PingLoop, AlbatrossMarket:       	Ping DC 1.0
+PingLoop, AlbatrossMarket:       	Ping DC 3.0
+PingLoop, AlbatrossMarket:       	Ping DC 4.0
+DataCenterConnection, AlbatrossMarket: 	Initing auth for DC -2
+DataCenterConnection, AlbatrossMarket: 	Initing auth for DC -4
+MTProto, AlbatrossMarket:        	Done initing authorization!
+MTProto, AlbatrossMarket:        	Starting update system
+DataCenterConnection, AlbatrossMarket: 	Flushing pending messages, DC 2
+DataCenterConnection, AlbatrossMarket: 	Flushing pending messages, DC 1
+DataCenterConnection, AlbatrossMarket: 	Flushing pending messages, DC -2
+DataCenterConnection, AlbatrossMarket: 	Flushing pending messages, DC 3
+DataCenterConnection, AlbatrossMarket: 	Flushing pending messages, DC 4
+DataCenterConnection, AlbatrossMarket: 	Flushing pending messages, DC -4
+DataCenterConnection, AlbatrossMarket: 	Flushing pending messages, DC 5
+DataCenter, AlbatrossMarket:     	Reconnecting to DC 2 (-1) from existing
+DataCenterConnection, AlbatrossMarket: 	Trying shared connection via tcp://149.154.167.41:443 main DC 2, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+DataCenterConnection, AlbatrossMarket: 	Already connected!
+DataCenter, AlbatrossMarket:     	OK!
+DataCenter, AlbatrossMarket:     	Reconnecting to DC 1 (-1) from existing
+DataCenterConnection, AlbatrossMarket: 	Trying shared connection via tcp://149.154.175.60:443 main DC 1, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+DataCenterConnection, AlbatrossMarket: 	Already connected!
+DataCenter, AlbatrossMarket:     	OK!
+DataCenter, AlbatrossMarket:     	Reconnecting to DC -2 (-1) from existing
+DataCenterConnection, AlbatrossMarket: 	Trying shared connection via tcp://149.154.167.222:443 main DC -2, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+DataCenterConnection, AlbatrossMarket: 	Already connected!
+DataCenter, AlbatrossMarket:     	OK!
+DataCenter, AlbatrossMarket:     	Reconnecting to DC 3 (-1) from existing
+DataCenterConnection, AlbatrossMarket: 	Trying shared connection via tcp://149.154.175.100:443 main DC 3, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+DataCenterConnection, AlbatrossMarket: 	Already connected!
+DataCenter, AlbatrossMarket:     	OK!
+DataCenter, AlbatrossMarket:     	Reconnecting to DC 4 (-1) from existing
+DataCenterConnection, AlbatrossMarket: 	Trying shared connection via tcp://149.154.167.92:443 main DC 4, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+DataCenterConnection, AlbatrossMarket: 	Already connected!
+DataCenter, AlbatrossMarket:     	OK!
+DataCenter, AlbatrossMarket:     	Reconnecting to DC -4 (-1) from existing
+DataCenterConnection, AlbatrossMarket: 	Trying shared connection via tcp://149.154.164.250:443 main DC -4, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+DataCenterConnection, AlbatrossMarket: 	Already connected!
+DataCenter, AlbatrossMarket:     	OK!
+DataCenter, AlbatrossMarket:     	Reconnecting to DC 5 (-1) from existing
+DataCenterConnection, AlbatrossMarket: 	Trying shared connection via tcp://91.108.56.190:443 main DC 5, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+DataCenterConnection, AlbatrossMarket: 	Already connected!
+DataCenter, AlbatrossMarket:     	OK!
+MTProto, AlbatrossMarket:        	Initing authorization...
+DataCenterConnection, AlbatrossMarket: 	Initing auth for DC 2
+DataCenterConnection, AlbatrossMarket: 	Initing auth for DC 1
+DataCenterConnection, AlbatrossMarket: 	Initing auth for DC 3
+DataCenterConnection, AlbatrossMarket: 	Initing auth for DC 4
+DataCenterConnection, AlbatrossMarket: 	Initing auth for DC 5
+DataCenterConnection, AlbatrossMarket: 	Initing auth for DC -2
+DataCenterConnection, AlbatrossMarket: 	Initing auth for DC -4
+MTProto, AlbatrossMarket:        	Done initing authorization!
+MTProto, AlbatrossMarket:        	Starting update system
+DataCenterConnection, AlbatrossMarket: 	Flushing pending messages, DC 2
+DataCenterConnection, AlbatrossMarket: 	Flushing pending messages, DC 1
+DataCenterConnection, AlbatrossMarket: 	Flushing pending messages, DC -2
+DataCenterConnection, AlbatrossMarket: 	Flushing pending messages, DC 3
+DataCenterConnection, AlbatrossMarket: 	Flushing pending messages, DC 4
+DataCenterConnection, AlbatrossMarket: 	Flushing pending messages, DC -4
+DataCenterConnection, AlbatrossMarket: 	Flushing pending messages, DC 5
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop channel 1115554076
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop channel 1290611721
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop channel 1856388917
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop channel 1894971762
+MTProto, AlbatrossMarket:        	Accepted IPC client connection!
+MTProto, AlbatrossMarket:        	Initing authorization...
+DataCenterConnection, AlbatrossMarket: 	Initing auth for DC 2
+DataCenterConnection, AlbatrossMarket: 	Initing auth for DC 1
+DataCenterConnection, AlbatrossMarket: 	Initing auth for DC 3
+DataCenterConnection, AlbatrossMarket: 	Initing auth for DC 4
+DataCenterConnection, AlbatrossMarket: 	Initing auth for DC 5
+PingLoop, AlbatrossMarket:       	Ping DC 1.0
+PingLoop, AlbatrossMarket:       	Ping DC 3.0
+DataCenterConnection, AlbatrossMarket: 	Initing auth for DC -2
+DataCenterConnection, AlbatrossMarket: 	Initing auth for DC -4
+MTProto, AlbatrossMarket:        	Done initing authorization!
+MTProto, AlbatrossMarket:        	Starting update system
+DataCenterConnection, AlbatrossMarket: 	Flushing pending messages, DC 2
+DataCenterConnection, AlbatrossMarket: 	Flushing pending messages, DC 1
+DataCenterConnection, AlbatrossMarket: 	Flushing pending messages, DC -2
+DataCenterConnection, AlbatrossMarket: 	Flushing pending messages, DC 3
+DataCenterConnection, AlbatrossMarket: 	Flushing pending messages, DC 4
+DataCenterConnection, AlbatrossMarket: 	Flushing pending messages, DC -4
+DataCenterConnection, AlbatrossMarket: 	Flushing pending messages, DC 5
+MTProto, AlbatrossMarket:        	Starting update system
+DataCenterConnection, AlbatrossMarket: 	Flushing pending messages, DC 2
+DataCenterConnection, AlbatrossMarket: 	Flushing pending messages, DC 1
+DataCenterConnection, AlbatrossMarket: 	Flushing pending messages, DC -2
+DataCenterConnection, AlbatrossMarket: 	Flushing pending messages, DC 3
+DataCenterConnection, AlbatrossMarket: 	Flushing pending messages, DC 4
+DataCenterConnection, AlbatrossMarket: 	Flushing pending messages, DC -4
+DataCenterConnection, AlbatrossMarket: 	Flushing pending messages, DC 5
+MTProto, AlbatrossMarket:        	Getting updates after deserialization...
+API, AlbatrossMarket:            	MadelineProto is ready!
+SessionPaths, AlbatrossMarket:   	Waiting for exclusive lock of /var/www/trucklink/backend/socket/session.madeline/ipcState.php.lock...
+SessionPaths, AlbatrossMarket:   	Got exclusive lock of /var/www/trucklink/backend/socket/session.madeline/ipcState.php.lock...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop channel 1115554076
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop channel 1290611721
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop channel 1856388917
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop channel 1894971762
+DialogHandler, AlbatrossMarket:  	Getting dialogs...
+ResponseHandler, AlbatrossMarket: 	Flood, waiting 27 seconds before repeating async call of messages.getAllChats with message ID 7190465020956770388...
+Session, AlbatrossMarket:        	Garbage collected 25 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 20 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 5 incoming messages in DC 3, 0 left
+Session, AlbatrossMarket:        	Garbage collected 4 outgoing messages in DC 3, 0 left
+Session, AlbatrossMarket:        	Garbage collected 4 incoming messages in DC 2, 0 left
+Session, AlbatrossMarket:        	Garbage collected 3 outgoing messages in DC 2, 0 left
+Session, AlbatrossMarket:        	Garbage collected 4 incoming messages in DC 4, 0 left
+Session, AlbatrossMarket:        	Garbage collected 3 outgoing messages in DC 4, 0 left
+Session, AlbatrossMarket:        	Garbage collected 3 incoming messages in DC 5, 0 left
+Session, AlbatrossMarket:        	Garbage collected 1 outgoing messages in DC 5, 0 left
+GarbageCollector, AlbatrossMarket: 	gc_collect_cycles done. Cleaned memory: 0 Mb
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Session, AlbatrossMarket:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 7 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 7 outgoing messages in DC 1, 1 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Session, AlbatrossMarket:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 7 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 6 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+SessionPaths:   	Waiting for exclusive lock of /var/www/trucklink/backend/socket/session.madeline/safe.php.lock...
+SessionPaths:   	Got exclusive lock of /var/www/trucklink/backend/socket/session.madeline/safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of /var/www/trucklink/backend/socket/session.madeline/lightState.php.lock...
+SessionPaths:   	Got exclusive lock of /var/www/trucklink/backend/socket/session.madeline/lightState.php.lock...
+APIWrapper:     	Saved session!
+Session, AlbatrossMarket:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+AckHandler, AlbatrossMarket:     	Could not find messages.getAllChats in new_outgoing!
+Session, AlbatrossMarket:        	Garbage collected 1 outgoing messages in DC 1, 2 left
+DialogHandler, AlbatrossMarket:  	Getting dialogs...
+DialogHandler, AlbatrossMarket:  	Getting dialogs...
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+ResponseHandler, AlbatrossMarket: 	Flood, waiting 60 seconds before repeating async call of messages.getAllChats with message ID 7190465141215854616...
+Session, AlbatrossMarket:        	Garbage collected 8 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 9 outgoing messages in DC 1, 1 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Connection, AlbatrossMarket:     	Connecting to DC -2.5
+Session, AlbatrossMarket:        	Resetting session in DC -2.5...
+Connection, AlbatrossMarket:     	Connecting to DC -4.5
+Session, AlbatrossMarket:        	Resetting session in DC -4.5...
+Session, AlbatrossMarket:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Connection, AlbatrossMarket:     	Connected to DC -2.5!
+Connection, AlbatrossMarket:     	Connecting to DC -2.6
+Session, AlbatrossMarket:        	Resetting session in DC -2.6...
+Connection, AlbatrossMarket:     	Connected to DC -4.5!
+Connection, AlbatrossMarket:     	Connecting to DC -4.6
+Session, AlbatrossMarket:        	Resetting session in DC -4.6...
+Connection, AlbatrossMarket:     	Connected to DC -2.6!
+Connection, AlbatrossMarket:     	Connected to DC -4.6!
+SessionPaths, AlbatrossMarket:   	Waiting for exclusive lock of /var/www/trucklink/backend/socket/session.madeline/safe.php.lock...
+SessionPaths, AlbatrossMarket:   	Got exclusive lock of /var/www/trucklink/backend/socket/session.madeline/safe.php.lock...
+SessionPaths, AlbatrossMarket:   	Waiting for exclusive lock of /var/www/trucklink/backend/socket/session.madeline/lightState.php.lock...
+SessionPaths, AlbatrossMarket:   	Got exclusive lock of /var/www/trucklink/backend/socket/session.madeline/lightState.php.lock...
+APIWrapper, AlbatrossMarket:     	Saved session!
+Session, AlbatrossMarket:        	Garbage collected 1 outgoing messages in DC 1, 6 left
+Session, AlbatrossMarket:        	Garbage collected 7 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 5 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Session, AlbatrossMarket:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Session, AlbatrossMarket:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Session, AlbatrossMarket:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Session, AlbatrossMarket:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Session, AlbatrossMarket:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Session, AlbatrossMarket:        	Garbage collected 8 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 6 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Session, AlbatrossMarket:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Session, AlbatrossMarket:        	Garbage collected 2 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Connection, AlbatrossMarket:     	Connecting to DC -2.7
+Session, AlbatrossMarket:        	Resetting session in DC -2.7...
+Connection, AlbatrossMarket:     	Connecting to DC -4.7
+Session, AlbatrossMarket:        	Resetting session in DC -4.7...
+Connection, AlbatrossMarket:     	Connected to DC -2.7!
+Connection, AlbatrossMarket:     	Connecting to DC -2.8
+Session, AlbatrossMarket:        	Resetting session in DC -2.8...
+Connection, AlbatrossMarket:     	Connected to DC -4.7!
+Connection, AlbatrossMarket:     	Connecting to DC -4.8
+Session, AlbatrossMarket:        	Resetting session in DC -4.8...
+Connection, AlbatrossMarket:     	Connected to DC -4.8!
+Connection, AlbatrossMarket:     	Connected to DC -2.8!
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 7 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 7 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Session, AlbatrossMarket:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Session, AlbatrossMarket:        	Garbage collected 3 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+SessionPaths:   	Waiting for exclusive lock of /var/www/trucklink/backend/socket/session.madeline/safe.php.lock...
+SessionPaths:   	Got exclusive lock of /var/www/trucklink/backend/socket/session.madeline/safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of /var/www/trucklink/backend/socket/session.madeline/lightState.php.lock...
+SessionPaths:   	Got exclusive lock of /var/www/trucklink/backend/socket/session.madeline/lightState.php.lock...
+APIWrapper:     	Saved session!
+PingLoop:       	Ping DC 1.0
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+PingLoop:       	Ping DC 3.0
+Session:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 1, 0 left
+Session:        	Garbage collected 0 outgoing messages in DC 3, 1 left
+PingLoop:       	Ping DC 4.0
+PingLoop:       	Ping DC 2.0
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session:        	Garbage collected 1 incoming messages in DC 3, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 3, 0 left
+Session:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 2, 0 left
+Session:        	Garbage collected 1 incoming messages in DC 4, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 4, 0 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+PingLoop:       	Ping DC 5.0
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Session, AlbatrossMarket:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session:        	Garbage collected 0 outgoing messages in DC 5, 1 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Session, AlbatrossMarket:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Session:        	Garbage collected 1 incoming messages in DC 5, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 5, 0 left
+SessionPaths, AlbatrossMarket:   	Waiting for exclusive lock of /var/www/trucklink/backend/socket/session.madeline/safe.php.lock...
+SessionPaths, AlbatrossMarket:   	Got exclusive lock of /var/www/trucklink/backend/socket/session.madeline/safe.php.lock...
+SessionPaths, AlbatrossMarket:   	Waiting for exclusive lock of /var/www/trucklink/backend/socket/session.madeline/lightState.php.lock...
+SessionPaths, AlbatrossMarket:   	Got exclusive lock of /var/www/trucklink/backend/socket/session.madeline/lightState.php.lock...
+APIWrapper, AlbatrossMarket:     	Saved session!
+PingLoop, AlbatrossMarket:       	Ping DC 4.0
+PingLoop, AlbatrossMarket:       	Ping DC 2.0
+PingLoop, AlbatrossMarket:       	Ping DC 5.0
+PingLoop, AlbatrossMarket:       	Ping DC 3.0
+PingLoop, AlbatrossMarket:       	Ping DC 1.0
+Session, AlbatrossMarket:        	Garbage collected 2 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 2 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 1 incoming messages in DC 3, 0 left
+Session, AlbatrossMarket:        	Garbage collected 1 outgoing messages in DC 3, 0 left
+Session, AlbatrossMarket:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session, AlbatrossMarket:        	Garbage collected 1 outgoing messages in DC 2, 0 left
+Session, AlbatrossMarket:        	Garbage collected 1 incoming messages in DC 4, 0 left
+Session, AlbatrossMarket:        	Garbage collected 1 outgoing messages in DC 4, 0 left
+Session, AlbatrossMarket:        	Garbage collected 1 incoming messages in DC 5, 0 left
+Session, AlbatrossMarket:        	Garbage collected 2 outgoing messages in DC 5, 0 left
+Session, AlbatrossMarket:        	Garbage collected 7 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 5 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Session, AlbatrossMarket:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Session, AlbatrossMarket:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Session, AlbatrossMarket:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Connection, AlbatrossMarket:     	Connecting to DC -4.9
+Session, AlbatrossMarket:        	Resetting session in DC -4.9...
+Connection, AlbatrossMarket:     	Connecting to DC -2.9
+Session, AlbatrossMarket:        	Resetting session in DC -2.9...
+Connection, AlbatrossMarket:     	Connected to DC -4.9!
+Connection, AlbatrossMarket:     	Connecting to DC -4.10
+Session, AlbatrossMarket:        	Resetting session in DC -4.10...
+Connection, AlbatrossMarket:     	Connected to DC -2.9!
+Connection, AlbatrossMarket:     	Connecting to DC -2.10
+Session, AlbatrossMarket:        	Resetting session in DC -2.10...
+Connection, AlbatrossMarket:     	Connected to DC -4.10!
+Connection, AlbatrossMarket:     	Connected to DC -2.10!
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+GarbageCollector, AlbatrossMarket: 	gc_collect_cycles done. Cleaned memory: 0 Mb
+Session, AlbatrossMarket:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 7 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 6 outgoing messages in DC 1, 1 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Session, AlbatrossMarket:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+ReadLoop, AlbatrossMarket:       	danog\MadelineProto\NothingInTheSocketException in /var/www/trucklink/backend/mtproto/vendor/danog/madelineproto/src/danog/MadelineProto/Stream/Common/BufferedRawStream.php:154
+Stack trace:
+#0 /var/www/trucklink/backend/mtproto/vendor/danog/madelineproto/src/danog/MadelineProto/Stream/MTProtoTransport/AbridgedStream.php(78): danog\MadelineProto\Stream\Common\BufferedRawStream->bufferRead()
+#1 /var/www/trucklink/backend/mtproto/vendor/danog/madelineproto/src/danog/MadelineProto/Loop/Connection/ReadLoop.php(126): danog\MadelineProto\Stream\MTProtoTransport\AbridgedStream->getReadBuffer()
+#2 /var/www/trucklink/backend/mtproto/vendor/amphp/amp/src/functions.php(34): danog\MadelineProto\Loop\Connection\ReadLoop->readMessage()
+#3 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/AbstractDriver.php(406): Amp\{closure}()
+#4 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/AbstractDriver.php(542): Revolt\EventLoop\Internal\AbstractDriver->invokeMicrotasks()
+#5 [internal function]: Revolt\EventLoop\Internal\AbstractDriver->Revolt\EventLoop\Internal\{closure}()
+#6 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/AbstractDriver.php(406): Fiber->resume()
+#7 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/AbstractDriver.php(596): Revolt\EventLoop\Internal\AbstractDriver->invokeMicrotasks()
+#8 [internal function]: Revolt\EventLoop\Internal\AbstractDriver->Revolt\EventLoop\Internal\{closure}()
+#9 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/AbstractDriver.php(478): Fiber->resume()
+#10 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/AbstractDriver.php(533): Revolt\EventLoop\Internal\AbstractDriver->invokeCallbacks()
+#11 [internal function]: Revolt\EventLoop\Internal\AbstractDriver->Revolt\EventLoop\Internal\{closure}()
+#12 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/AbstractDriver.php(86): Fiber->resume()
+#13 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/DriverSuspension.php(97): Revolt\EventLoop\Internal\AbstractDriver->Revolt\EventLoop\Internal\{closure}()
+#14 /var/www/trucklink/backend/mtproto/vendor/amphp/amp/src/Future.php(251): Revolt\EventLoop\Internal\DriverSuspension->suspend()
+#15 /var/www/trucklink/backend/mtproto/vendor/danog/madelineproto/src/danog/MadelineProto/Ipc/Server.php(156): Amp\Future->await()
+#16 /var/www/trucklink/backend/mtproto/vendor/danog/madelineproto/src/danog/MadelineProto/Ipc/Runner/entry.php(116): danog\MadelineProto\Ipc\Server::waitShutdown()
+#17 /var/www/trucklink/backend/mtproto/vendor/danog/madelineproto/src/danog/MadelineProto/Ipc/Runner/entry.php(147): {closure}()
+#18 {main}
+ReadLoop, AlbatrossMarket:       	Got nothing in the socket in DC -4.2, reconnecting...
+Connection, AlbatrossMarket:     	Reconnecting DC -4.2
+Connection, AlbatrossMarket:     	Disconnecting from DC -4.2
+Connection, AlbatrossMarket:     	Disconnected from DC -4.2
+DataCenter, AlbatrossMarket:     	Reconnecting to DC -4 (2) from existing
+DataCenterConnection, AlbatrossMarket: 	Trying shared connection via tcp://149.154.164.250:443 main DC -4, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (2)
+Connection, AlbatrossMarket:     	Connecting to DC -4.2
+Connection, AlbatrossMarket:     	Connected to DC -4.2!
+DataCenter, AlbatrossMarket:     	OK!
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Session, AlbatrossMarket:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+MTProto, AlbatrossMarket:        	Accepted IPC client connection!
+DialogHandler, AlbatrossMarket:  	Getting dialogs...
+Session, AlbatrossMarket:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 2 outgoing messages in DC 1, 1 left
+ResponseHandler, AlbatrossMarket: 	Flood, waiting 12 seconds before repeating async call of messages.getAllChats with message ID 7190465347374284812...
+Session, AlbatrossMarket:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 1 outgoing messages in DC 1, 2 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 2 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 2 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 2 left
+Session, AlbatrossMarket:        	Garbage collected 7 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 7 outgoing messages in DC 1, 2 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 2 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Session, AlbatrossMarket:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 2 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Session, AlbatrossMarket:        	Garbage collected 2 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 2 left
+SessionPaths:   	Waiting for exclusive lock of /var/www/trucklink/backend/socket/session.madeline/safe.php.lock...
+SessionPaths:   	Got exclusive lock of /var/www/trucklink/backend/socket/session.madeline/safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of /var/www/trucklink/backend/socket/session.madeline/lightState.php.lock...
+SessionPaths:   	Got exclusive lock of /var/www/trucklink/backend/socket/session.madeline/lightState.php.lock...
+APIWrapper:     	Saved session!
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 2 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 2 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 2 left
+AckHandler, AlbatrossMarket:     	Could not find messages.getAllChats in new_outgoing!
+MTProto, AlbatrossMarket:        	Got error while trying to send result of methodCallAsyncRead: Amp\Ipc\Sync\ChannelException: The channel was already closed! in /var/www/trucklink/backend/mtproto/vendor/danog/ipc/lib/Sync/ChannelledSocket.php:39
+Stack trace:
+#0 /var/www/trucklink/backend/mtproto/vendor/danog/madelineproto/src/danog/MadelineProto/Ipc/Server.php(238): Amp\Ipc\Sync\ChannelledSocket->send()
+#1 /var/www/trucklink/backend/mtproto/vendor/amphp/amp/src/functions.php(34): danog\MadelineProto\Ipc\Server->clientRequest()
+#2 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/AbstractDriver.php(406): Amp\{closure}()
+#3 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/AbstractDriver.php(596): Revolt\EventLoop\Internal\AbstractDriver->invokeMicrotasks()
+#4 [internal function]: Revolt\EventLoop\Internal\AbstractDriver->Revolt\EventLoop\Internal\{closure}()
+#5 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/AbstractDriver.php(406): Fiber->resume()
+#6 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/AbstractDriver.php(596): Revolt\EventLoop\Internal\AbstractDriver->invokeMicrotasks()
+#7 [internal function]: Revolt\EventLoop\Internal\AbstractDriver->Revolt\EventLoop\Internal\{closure}()
+#8 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/AbstractDriver.php(478): Fiber->resume()
+#9 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/AbstractDriver.php(533): Revolt\EventLoop\Internal\AbstractDriver->invokeCallbacks()
+#10 [internal function]: Revolt\EventLoop\Internal\AbstractDriver->Revolt\EventLoop\Internal\{closure}()
+#11 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/AbstractDriver.php(86): Fiber->resume()
+#12 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/DriverSuspension.php(97): Revolt\EventLoop\Internal\AbstractDriver->Revolt\EventLoop\Internal\{closure}()
+#13 /var/www/trucklink/backend/mtproto/vendor/amphp/amp/src/Future.php(251): Revolt\EventLoop\Internal\DriverSuspension->suspend()
+#14 /var/www/trucklink/backend/mtproto/vendor/danog/madelineproto/src/danog/MadelineProto/Ipc/Server.php(156): Amp\Future->await()
+#15 /var/www/trucklink/backend/mtproto/vendor/danog/madelineproto/src/danog/MadelineProto/Ipc/Runner/entry.php(116): danog\MadelineProto\Ipc\Server::waitShutdown()
+#16 /var/www/trucklink/backend/mtproto/vendor/danog/madelineproto/src/danog/MadelineProto/Ipc/Runner/entry.php(147): {closure}()
+#17 {main}
+MTProto, AlbatrossMarket:        	Got error while trying to send error of error of methodCallAsyncRead: Amp\Ipc\Sync\ChannelException: The channel was already closed! in /var/www/trucklink/backend/mtproto/vendor/danog/ipc/lib/Sync/ChannelledSocket.php:39
+Stack trace:
+#0 /var/www/trucklink/backend/mtproto/vendor/danog/madelineproto/src/danog/MadelineProto/Ipc/Server.php(242): Amp\Ipc\Sync\ChannelledSocket->send()
+#1 /var/www/trucklink/backend/mtproto/vendor/amphp/amp/src/functions.php(34): danog\MadelineProto\Ipc\Server->clientRequest()
+#2 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/AbstractDriver.php(406): Amp\{closure}()
+#3 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/AbstractDriver.php(596): Revolt\EventLoop\Internal\AbstractDriver->invokeMicrotasks()
+#4 [internal function]: Revolt\EventLoop\Internal\AbstractDriver->Revolt\EventLoop\Internal\{closure}()
+#5 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/AbstractDriver.php(406): Fiber->resume()
+#6 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/AbstractDriver.php(596): Revolt\EventLoop\Internal\AbstractDriver->invokeMicrotasks()
+#7 [internal function]: Revolt\EventLoop\Internal\AbstractDriver->Revolt\EventLoop\Internal\{closure}()
+#8 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/AbstractDriver.php(478): Fiber->resume()
+#9 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/AbstractDriver.php(533): Revolt\EventLoop\Internal\AbstractDriver->invokeCallbacks()
+#10 [internal function]: Revolt\EventLoop\Internal\AbstractDriver->Revolt\EventLoop\Internal\{closure}()
+#11 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/AbstractDriver.php(86): Fiber->resume()
+#12 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/DriverSuspension.php(97): Revolt\EventLoop\Internal\AbstractDriver->Revolt\EventLoop\Internal\{closure}()
+#13 /var/www/trucklink/backend/mtproto/vendor/amphp/amp/src/Future.php(251): Revolt\EventLoop\Internal\DriverSuspension->suspend()
+#14 /var/www/trucklink/backend/mtproto/vendor/danog/madelineproto/src/danog/MadelineProto/Ipc/Server.php(156): Amp\Future->await()
+#15 /var/www/trucklink/backend/mtproto/vendor/danog/madelineproto/src/danog/MadelineProto/Ipc/Runner/entry.php(116): danog\MadelineProto\Ipc\Server::waitShutdown()
+#16 /var/www/trucklink/backend/mtproto/vendor/danog/madelineproto/src/danog/MadelineProto/Ipc/Runner/entry.php(147): {closure}()
+#17 {main}
+Session, AlbatrossMarket:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 3 outgoing messages in DC 1, 1 left
+AckHandler, AlbatrossMarket:     	Could not find messages.getAllChats in new_outgoing!
+DialogHandler, AlbatrossMarket:  	Getting dialogs...
+ResponseHandler, AlbatrossMarket: 	Flood, waiting 60 seconds before repeating async call of messages.getAllChats with message ID 7190465403208859660...
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Session, AlbatrossMarket:        	Garbage collected 4 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 6 outgoing messages in DC 1, 1 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+SessionPaths, AlbatrossMarket:   	Waiting for exclusive lock of /var/www/trucklink/backend/socket/session.madeline/safe.php.lock...
+SessionPaths, AlbatrossMarket:   	Got exclusive lock of /var/www/trucklink/backend/socket/session.madeline/safe.php.lock...
+SessionPaths, AlbatrossMarket:   	Waiting for exclusive lock of /var/www/trucklink/backend/socket/session.madeline/lightState.php.lock...
+SessionPaths, AlbatrossMarket:   	Got exclusive lock of /var/www/trucklink/backend/socket/session.madeline/lightState.php.lock...
+APIWrapper, AlbatrossMarket:     	Saved session!
+Session, AlbatrossMarket:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Session, AlbatrossMarket:        	Garbage collected 8 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 7 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Session, AlbatrossMarket:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Session, AlbatrossMarket:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Session, AlbatrossMarket:        	Garbage collected 2 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+MTProto, AlbatrossMarket:        	Accepted IPC client connection!
+DialogHandler, AlbatrossMarket:  	Getting dialogs...
+Session, AlbatrossMarket:        	Garbage collected 2 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 2 outgoing messages in DC 1, 1 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Session, AlbatrossMarket:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 7 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 7 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Session, AlbatrossMarket:        	Garbage collected 2 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Session, AlbatrossMarket:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 7 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 7 outgoing messages in DC 1, 1 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Session, AlbatrossMarket:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+MTProto, AlbatrossMarket:        	Accepted IPC client connection!
+DialogHandler, AlbatrossMarket:  	Getting dialogs...
+ResponseHandler, AlbatrossMarket: 	Flood, waiting 35 seconds before repeating async call of messages.getAllChats with message ID 7190465510583042060...
+Session, AlbatrossMarket:        	Garbage collected 2 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 3 outgoing messages in DC 1, 2 left
+SessionPaths:   	Waiting for exclusive lock of /var/www/trucklink/backend/socket/session.madeline/safe.php.lock...
+SessionPaths:   	Got exclusive lock of /var/www/trucklink/backend/socket/session.madeline/safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of /var/www/trucklink/backend/socket/session.madeline/lightState.php.lock...
+SessionPaths:   	Got exclusive lock of /var/www/trucklink/backend/socket/session.madeline/lightState.php.lock...
+APIWrapper:     	Saved session!
+PingLoop:       	Ping DC 1.0
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 2 left
+Session:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 1, 0 left
+PingLoop:       	Ping DC 3.0
+PingLoop:       	Ping DC 4.0
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 2 left
+PingLoop:       	Ping DC 2.0
+Session:        	Garbage collected 1 incoming messages in DC 3, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 3, 0 left
+Session:        	Garbage collected 0 outgoing messages in DC 2, 1 left
+Session:        	Garbage collected 1 incoming messages in DC 4, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 4, 0 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 2 left
+Session:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 2, 0 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Session, AlbatrossMarket:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 2 left
+PingLoop:       	Ping DC 5.0
+Session:        	Garbage collected 0 outgoing messages in DC 5, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 2 left
+Session:        	Garbage collected 1 incoming messages in DC 5, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 5, 0 left
+SessionPaths, AlbatrossMarket:   	Waiting for exclusive lock of /var/www/trucklink/backend/socket/session.madeline/safe.php.lock...
+SessionPaths, AlbatrossMarket:   	Got exclusive lock of /var/www/trucklink/backend/socket/session.madeline/safe.php.lock...
+SessionPaths, AlbatrossMarket:   	Waiting for exclusive lock of /var/www/trucklink/backend/socket/session.madeline/lightState.php.lock...
+SessionPaths, AlbatrossMarket:   	Got exclusive lock of /var/www/trucklink/backend/socket/session.madeline/lightState.php.lock...
+APIWrapper, AlbatrossMarket:     	Saved session!
+PingLoop, AlbatrossMarket:       	Ping DC 4.0
+PingLoop, AlbatrossMarket:       	Ping DC 1.0
+PingLoop, AlbatrossMarket:       	Ping DC 3.0
+PingLoop, AlbatrossMarket:       	Ping DC 2.0
+Session, AlbatrossMarket:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 2 outgoing messages in DC 1, 2 left
+Session, AlbatrossMarket:        	Garbage collected 1 incoming messages in DC 3, 0 left
+Session, AlbatrossMarket:        	Garbage collected 1 outgoing messages in DC 3, 0 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 2, 1 left
+Session, AlbatrossMarket:        	Garbage collected 1 incoming messages in DC 4, 0 left
+Session, AlbatrossMarket:        	Garbage collected 1 outgoing messages in DC 4, 0 left
+PingLoop, AlbatrossMarket:       	Ping DC 5.0
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 5, 1 left
+Session, AlbatrossMarket:        	Garbage collected 7 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 6 outgoing messages in DC 1, 2 left
+Session, AlbatrossMarket:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session, AlbatrossMarket:        	Garbage collected 1 outgoing messages in DC 2, 0 left
+Session, AlbatrossMarket:        	Garbage collected 1 incoming messages in DC 5, 0 left
+Session, AlbatrossMarket:        	Garbage collected 1 outgoing messages in DC 5, 0 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Session, AlbatrossMarket:        	Garbage collected 2 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 2 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Session, AlbatrossMarket:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 2 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Session, AlbatrossMarket:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 2 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 2 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Session, AlbatrossMarket:        	Garbage collected 2 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 2 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 2 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 2 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Session, AlbatrossMarket:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 2 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Session, AlbatrossMarket:        	Garbage collected 2 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 2 left
+Session, AlbatrossMarket:        	Garbage collected 2 outgoing messages in DC 1, 7 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Session, AlbatrossMarket:        	Garbage collected 8 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 5 outgoing messages in DC 1, 2 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Session, AlbatrossMarket:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 2 left
+MTProto, AlbatrossMarket:        	Accepted IPC client connection!
+DialogHandler, AlbatrossMarket:  	Getting dialogs...
+Session, AlbatrossMarket:        	Garbage collected 1 outgoing messages in DC 1, 3 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Session, AlbatrossMarket:        	Garbage collected 5 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 1 outgoing messages in DC 1, 2 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 2 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 2 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 2 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 2 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 2 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Session, AlbatrossMarket:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 2 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Session, AlbatrossMarket:        	Garbage collected 8 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 7 outgoing messages in DC 1, 2 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 2 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Session, AlbatrossMarket:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 2 left
+SessionPaths:   	Waiting for exclusive lock of /var/www/trucklink/backend/socket/session.madeline/safe.php.lock...
+SessionPaths:   	Got exclusive lock of /var/www/trucklink/backend/socket/session.madeline/safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of /var/www/trucklink/backend/socket/session.madeline/lightState.php.lock...
+SessionPaths:   	Got exclusive lock of /var/www/trucklink/backend/socket/session.madeline/lightState.php.lock...
+APIWrapper:     	Saved session!
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 2 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 2 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 2 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 2 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+AckHandler, AlbatrossMarket:     	Could not find messages.getAllChats in new_outgoing!
+MTProto, AlbatrossMarket:        	Got error while trying to send result of methodCallAsyncRead: Amp\Ipc\Sync\ChannelException: The channel was already closed! in /var/www/trucklink/backend/mtproto/vendor/danog/ipc/lib/Sync/ChannelledSocket.php:39
+Stack trace:
+#0 /var/www/trucklink/backend/mtproto/vendor/danog/madelineproto/src/danog/MadelineProto/Ipc/Server.php(238): Amp\Ipc\Sync\ChannelledSocket->send()
+#1 /var/www/trucklink/backend/mtproto/vendor/amphp/amp/src/functions.php(34): danog\MadelineProto\Ipc\Server->clientRequest()
+#2 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/AbstractDriver.php(406): Amp\{closure}()
+#3 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/AbstractDriver.php(596): Revolt\EventLoop\Internal\AbstractDriver->invokeMicrotasks()
+#4 [internal function]: Revolt\EventLoop\Internal\AbstractDriver->Revolt\EventLoop\Internal\{closure}()
+#5 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/AbstractDriver.php(406): Fiber->resume()
+#6 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/AbstractDriver.php(596): Revolt\EventLoop\Internal\AbstractDriver->invokeMicrotasks()
+#7 [internal function]: Revolt\EventLoop\Internal\AbstractDriver->Revolt\EventLoop\Internal\{closure}()
+#8 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/AbstractDriver.php(478): Fiber->resume()
+#9 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/AbstractDriver.php(533): Revolt\EventLoop\Internal\AbstractDriver->invokeCallbacks()
+#10 [internal function]: Revolt\EventLoop\Internal\AbstractDriver->Revolt\EventLoop\Internal\{closure}()
+#11 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/AbstractDriver.php(86): Fiber->resume()
+#12 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/DriverSuspension.php(97): Revolt\EventLoop\Internal\AbstractDriver->Revolt\EventLoop\Internal\{closure}()
+#13 /var/www/trucklink/backend/mtproto/vendor/amphp/amp/src/Future.php(251): Revolt\EventLoop\Internal\DriverSuspension->suspend()
+#14 /var/www/trucklink/backend/mtproto/vendor/danog/madelineproto/src/danog/MadelineProto/Ipc/Server.php(156): Amp\Future->await()
+#15 /var/www/trucklink/backend/mtproto/vendor/danog/madelineproto/src/danog/MadelineProto/Ipc/Runner/entry.php(116): danog\MadelineProto\Ipc\Server::waitShutdown()
+#16 /var/www/trucklink/backend/mtproto/vendor/danog/madelineproto/src/danog/MadelineProto/Ipc/Runner/entry.php(147): {closure}()
+#17 {main}
+MTProto, AlbatrossMarket:        	Got error while trying to send error of error of methodCallAsyncRead: Amp\Ipc\Sync\ChannelException: The channel was already closed! in /var/www/trucklink/backend/mtproto/vendor/danog/ipc/lib/Sync/ChannelledSocket.php:39
+Stack trace:
+#0 /var/www/trucklink/backend/mtproto/vendor/danog/madelineproto/src/danog/MadelineProto/Ipc/Server.php(242): Amp\Ipc\Sync\ChannelledSocket->send()
+#1 /var/www/trucklink/backend/mtproto/vendor/amphp/amp/src/functions.php(34): danog\MadelineProto\Ipc\Server->clientRequest()
+#2 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/AbstractDriver.php(406): Amp\{closure}()
+#3 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/AbstractDriver.php(596): Revolt\EventLoop\Internal\AbstractDriver->invokeMicrotasks()
+#4 [internal function]: Revolt\EventLoop\Internal\AbstractDriver->Revolt\EventLoop\Internal\{closure}()
+#5 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/AbstractDriver.php(406): Fiber->resume()
+#6 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/AbstractDriver.php(596): Revolt\EventLoop\Internal\AbstractDriver->invokeMicrotasks()
+#7 [internal function]: Revolt\EventLoop\Internal\AbstractDriver->Revolt\EventLoop\Internal\{closure}()
+#8 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/AbstractDriver.php(478): Fiber->resume()
+#9 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/AbstractDriver.php(533): Revolt\EventLoop\Internal\AbstractDriver->invokeCallbacks()
+#10 [internal function]: Revolt\EventLoop\Internal\AbstractDriver->Revolt\EventLoop\Internal\{closure}()
+#11 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/AbstractDriver.php(86): Fiber->resume()
+#12 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/DriverSuspension.php(97): Revolt\EventLoop\Internal\AbstractDriver->Revolt\EventLoop\Internal\{closure}()
+#13 /var/www/trucklink/backend/mtproto/vendor/amphp/amp/src/Future.php(251): Revolt\EventLoop\Internal\DriverSuspension->suspend()
+#14 /var/www/trucklink/backend/mtproto/vendor/danog/madelineproto/src/danog/MadelineProto/Ipc/Server.php(156): Amp\Future->await()
+#15 /var/www/trucklink/backend/mtproto/vendor/danog/madelineproto/src/danog/MadelineProto/Ipc/Runner/entry.php(116): danog\MadelineProto\Ipc\Server::waitShutdown()
+#16 /var/www/trucklink/backend/mtproto/vendor/danog/madelineproto/src/danog/MadelineProto/Ipc/Runner/entry.php(147): {closure}()
+#17 {main}
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+AckHandler, AlbatrossMarket:     	Could not find messages.getAllChats in new_outgoing!
+MTProto, AlbatrossMarket:        	Got error while trying to send result of methodCallAsyncRead: Amp\Ipc\Sync\ChannelException: The channel was already closed! in /var/www/trucklink/backend/mtproto/vendor/danog/ipc/lib/Sync/ChannelledSocket.php:39
+Stack trace:
+#0 /var/www/trucklink/backend/mtproto/vendor/danog/madelineproto/src/danog/MadelineProto/Ipc/Server.php(238): Amp\Ipc\Sync\ChannelledSocket->send()
+#1 /var/www/trucklink/backend/mtproto/vendor/amphp/amp/src/functions.php(34): danog\MadelineProto\Ipc\Server->clientRequest()
+#2 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/AbstractDriver.php(406): Amp\{closure}()
+#3 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/AbstractDriver.php(596): Revolt\EventLoop\Internal\AbstractDriver->invokeMicrotasks()
+#4 [internal function]: Revolt\EventLoop\Internal\AbstractDriver->Revolt\EventLoop\Internal\{closure}()
+#5 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/AbstractDriver.php(406): Fiber->resume()
+#6 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/AbstractDriver.php(596): Revolt\EventLoop\Internal\AbstractDriver->invokeMicrotasks()
+#7 [internal function]: Revolt\EventLoop\Internal\AbstractDriver->Revolt\EventLoop\Internal\{closure}()
+#8 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/AbstractDriver.php(478): Fiber->resume()
+#9 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/AbstractDriver.php(533): Revolt\EventLoop\Internal\AbstractDriver->invokeCallbacks()
+#10 [internal function]: Revolt\EventLoop\Internal\AbstractDriver->Revolt\EventLoop\Internal\{closure}()
+#11 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/AbstractDriver.php(86): Fiber->resume()
+#12 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/DriverSuspension.php(97): Revolt\EventLoop\Internal\AbstractDriver->Revolt\EventLoop\Internal\{closure}()
+#13 /var/www/trucklink/backend/mtproto/vendor/amphp/amp/src/Future.php(251): Revolt\EventLoop\Internal\DriverSuspension->suspend()
+#14 /var/www/trucklink/backend/mtproto/vendor/danog/madelineproto/src/danog/MadelineProto/Ipc/Server.php(156): Amp\Future->await()
+#15 /var/www/trucklink/backend/mtproto/vendor/danog/madelineproto/src/danog/MadelineProto/Ipc/Runner/entry.php(116): danog\MadelineProto\Ipc\Server::waitShutdown()
+#16 /var/www/trucklink/backend/mtproto/vendor/danog/madelineproto/src/danog/MadelineProto/Ipc/Runner/entry.php(147): {closure}()
+#17 {main}
+MTProto, AlbatrossMarket:        	Got error while trying to send error of error of methodCallAsyncRead: Amp\Ipc\Sync\ChannelException: The channel was already closed! in /var/www/trucklink/backend/mtproto/vendor/danog/ipc/lib/Sync/ChannelledSocket.php:39
+Stack trace:
+#0 /var/www/trucklink/backend/mtproto/vendor/danog/madelineproto/src/danog/MadelineProto/Ipc/Server.php(242): Amp\Ipc\Sync\ChannelledSocket->send()
+#1 /var/www/trucklink/backend/mtproto/vendor/amphp/amp/src/functions.php(34): danog\MadelineProto\Ipc\Server->clientRequest()
+#2 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/AbstractDriver.php(406): Amp\{closure}()
+#3 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/AbstractDriver.php(596): Revolt\EventLoop\Internal\AbstractDriver->invokeMicrotasks()
+#4 [internal function]: Revolt\EventLoop\Internal\AbstractDriver->Revolt\EventLoop\Internal\{closure}()
+#5 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/AbstractDriver.php(406): Fiber->resume()
+#6 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/AbstractDriver.php(596): Revolt\EventLoop\Internal\AbstractDriver->invokeMicrotasks()
+#7 [internal function]: Revolt\EventLoop\Internal\AbstractDriver->Revolt\EventLoop\Internal\{closure}()
+#8 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/AbstractDriver.php(478): Fiber->resume()
+#9 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/AbstractDriver.php(533): Revolt\EventLoop\Internal\AbstractDriver->invokeCallbacks()
+#10 [internal function]: Revolt\EventLoop\Internal\AbstractDriver->Revolt\EventLoop\Internal\{closure}()
+#11 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/AbstractDriver.php(86): Fiber->resume()
+#12 /var/www/trucklink/backend/mtproto/vendor/revolt/event-loop/src/EventLoop/Internal/DriverSuspension.php(97): Revolt\EventLoop\Internal\AbstractDriver->Revolt\EventLoop\Internal\{closure}()
+#13 /var/www/trucklink/backend/mtproto/vendor/amphp/amp/src/Future.php(251): Revolt\EventLoop\Internal\DriverSuspension->suspend()
+#14 /var/www/trucklink/backend/mtproto/vendor/danog/madelineproto/src/danog/MadelineProto/Ipc/Server.php(156): Amp\Future->await()
+#15 /var/www/trucklink/backend/mtproto/vendor/danog/madelineproto/src/danog/MadelineProto/Ipc/Runner/entry.php(116): danog\MadelineProto\Ipc\Server::waitShutdown()
+#16 /var/www/trucklink/backend/mtproto/vendor/danog/madelineproto/src/danog/MadelineProto/Ipc/Runner/entry.php(147): {closure}()
+#17 {main}
+Session, AlbatrossMarket:        	Garbage collected 4 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 6 outgoing messages in DC 1, 0 left
+SessionPaths, AlbatrossMarket:   	Waiting for exclusive lock of /var/www/trucklink/backend/socket/session.madeline/safe.php.lock...
+SessionPaths, AlbatrossMarket:   	Got exclusive lock of /var/www/trucklink/backend/socket/session.madeline/safe.php.lock...
+SessionPaths, AlbatrossMarket:   	Waiting for exclusive lock of /var/www/trucklink/backend/socket/session.madeline/lightState.php.lock...
+SessionPaths, AlbatrossMarket:   	Got exclusive lock of /var/www/trucklink/backend/socket/session.madeline/lightState.php.lock...
+APIWrapper, AlbatrossMarket:     	Saved session!
+MTProto, AlbatrossMarket:        	Accepted IPC client connection!
+DialogHandler, AlbatrossMarket:  	Getting dialogs...
+ResponseHandler, AlbatrossMarket: 	Flood, waiting 58 seconds before repeating async call of messages.getAllChats with message ID 7190465673791799336...
+Session, AlbatrossMarket:        	Garbage collected 9 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 9 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Session, AlbatrossMarket:        	Garbage collected 2 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Session, AlbatrossMarket:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Session, AlbatrossMarket:        	Garbage collected 9 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 6 outgoing messages in DC 1, 1 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Session, AlbatrossMarket:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Session, AlbatrossMarket:        	Garbage collected 2 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Session, AlbatrossMarket:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+UpdateHandler, AlbatrossMarket:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, AlbatrossMarket:       	Resumed update feed loop generic
+Session, AlbatrossMarket:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 7 incoming messages in DC 1, 0 left
+Session, AlbatrossMarket:        	Garbage collected 6 outgoing messages in DC 1, 1 left
+Session, AlbatrossMarket:        	Garbage collected 0 outgoing messages in DC 1, 1 left

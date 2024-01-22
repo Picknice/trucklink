@@ -1,0 +1,28 @@
+.personal-applications {
+    background: url('../img/application-background2.png');
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    .personal-applications__main_container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .personal-applications__buttons {
+        margin: 2.125rem auto 5.75rem;
+    }
+
+    .application__table {
+        td {
+            &::before {
+                content: none;
+            }
+        }
+
+        .application__item {
+            font-weight: 300;
+        }
+    }
+}

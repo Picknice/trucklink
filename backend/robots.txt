@@ -1,0 +1,10 @@
+User-agent: Googlebot
+Disallow: /admin
+Disallow: /success
+Disallow: /cancel
+Disallow: /order
+Disallow: /telegram
+
+User-agent: *
+Allow: /
+Sitemap: https://trucklink.cc/sitemap.xml

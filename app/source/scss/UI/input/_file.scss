@@ -1,0 +1,23 @@
+.file-upload {
+
+    .file-upload__text {
+        border: 1px dashed rgba(255, 255, 255, 0.4);
+        border-radius: 0.5rem;
+
+        color: rgba(255, 255, 255, 0.4);
+
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+    
+        padding: 3rem 6.5rem;
+
+        transition: 200ms;
+
+        &:hover {
+            border-color: #fff;
+
+            color: #fff;
+        }
+    }
+}

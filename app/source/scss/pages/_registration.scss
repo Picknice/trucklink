@@ -1,0 +1,82 @@
+.registration {
+    background: url('../img/header-background.png');
+    background-size: cover;
+    background-position: center center;
+    .header__container {
+        padding-bottom: 5.75rem;
+    }
+
+    .registration__main {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .registration__main_confirm {
+        justify-content: center;
+    }
+
+    .registration__link-back {
+        cursor: pointer;
+
+        margin-bottom: 1.5rem;
+    }
+
+    .registration__title {
+        font-size: 4.5rem;
+        line-height: 1;
+
+        margin-bottom: 0.5rem;
+    }
+
+    .registration__subtitle {
+        margin-bottom: 2rem;
+        
+        max-width: 25rem;
+    }
+
+    .registration__form {
+        max-width: 33.75rem;
+        width: 100%;
+    }
+
+    .registration__form_top {
+        border-bottom: 2px solid #17212B;
+
+        display: flex;
+        flex-direction: column;
+        row-gap: 1.25rem;
+
+        margin-bottom: 1.25rem;
+        padding-bottom: 2.75rem;
+    }
+
+    .registration__form_bottom {
+        @extend .registration__form_top;
+
+        padding-bottom: 0;
+        margin-bottom: 2rem;
+    }
+
+    .registration__button {
+        display: flex;
+        justify-content: center;
+
+        padding: 1.06rem;
+
+        width: 100%;
+    }
+
+    .registration__button_confirm {
+        padding: 1.06rem 5rem;
+    }
+}
+.login_signup{
+    margin-top: 20px;
+    display: block;
+    text-align: center;
+    a{
+        margin-left: 10px;
+        text-decoration: underline;
+    }
+}

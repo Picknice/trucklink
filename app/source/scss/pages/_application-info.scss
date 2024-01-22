@@ -1,0 +1,113 @@
+.application-info {
+    background: url('../img/application-background2.png') no-repeat;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    .application-info__main_container {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .application-info__flex {
+        color: #fff;
+
+        cursor: pointer;
+
+        display: flex;
+        align-items: center;
+        column-gap: 0.4375rem;
+
+        span {
+            color: inherit;
+        }
+
+        &._red {
+            color: #DA4242;
+        }
+    }
+
+    .application-info__link {
+        margin-top: 4rem;
+    }
+
+    .application-info__info {
+        margin-top: 4.25rem;
+        margin-bottom: 3.75rem;
+
+        max-width: 58.75rem;
+        width: 100%;
+    }
+
+    .application-info__interaction {
+        max-width: 58.75rem;
+        width: 100%;
+    }
+
+    .application-info__interaction_top {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+
+        margin-bottom: 2.75rem;
+    }
+
+    .application-info__interaction__bottom {
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media (max-width: 1024px) {
+    .application-info {
+        .info__list{
+            margin-bottom: 0;
+        }
+        .application-info__interaction__info{
+            display: flex;
+            justify-content: space-between;
+            margin-top: 1rem;
+            .application-info__price, .application-info__status{
+                padding: 1.5rem 0.2rem;
+                position: relative;
+                background: #17212b;
+                border-radius: 0.5rem;
+                display: inline-flex;
+                align-items: center;
+                justify-content: center;
+            }
+            .application-info__price{
+                width: 30%;
+            }
+            .application-info__status{
+                width: 65%;
+            }
+        }
+        .application-info__interaction_top {
+            flex-wrap: wrap;
+            justify-content: space-between;
+            grid-gap: 1rem;
+
+            &>*:first-child {
+                order: 2;
+            }
+
+            &>*:nth-child(2) {
+                flex: 1 0 100%;
+                order: 1;
+
+                .personal-applications_create,
+                .personal-applications_profile {
+                    justify-content: center;
+
+                    width: 100%;
+                }
+            }
+
+            &>*:nth-child(3) {
+                order: 3;
+            }
+        }
+    }
+}

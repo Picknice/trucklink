@@ -1,0 +1,49 @@
+.input-block__content:hover {
+
+    svg {
+        -webkit-transform: scale(1.4);
+        -ms-transform: scale(1.4);
+        transform: scale(1.4);
+        transition: all 0.5s;
+
+    }
+}
+
+.inpImg {
+    transition: all 0.5s;
+}
+
+
+.application__item:hover {
+    -webkit-transform: scale(1.025);
+    -ms-transform: scale(1.025);
+    transform: scale(1.025);
+    transition: all 0.5s;
+}
+
+.application__item{
+    transition: all 0.5s;
+}
+
+
+.about-company__people_item:hover{
+    -webkit-transform: scale(1.03);
+    -ms-transform: scale(1.03);
+    transform: scale(1.03);
+    transition: all 0.5s;
+}
+
+.about-company__people_item{
+    transition: all 0.5s;
+}
+
+.transport-nearby__button:hover{
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+    transition: all 0.5s;
+}
+
+.transport-nearby__button{
+    transition: all 0.5s;
+}

@@ -1,0 +1,33 @@
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 382662929
+            [channel_post] => Array
+                (
+                    [message_id] => 812
+                    [sender_chat] => Array
+                        (
+                            [id] => -1001521396006
+                            [title] => 🔥Работа в Майами / Job in Miami 🔥
+                            [username] => jobinmayami
+                            [type] => channel
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => -1001521396006
+                            [title] => 🔥Работа в Майами / Job in Miami 🔥
+                            [username] => jobinmayami
+                            [type] => channel
+                        )
+
+                    [date] => 1673553214
+                    [text] => 1
+                )
+
+        )
+
+    [escapeWhenCastingToString:protected] => 
+    [updateType:protected] => 
+)

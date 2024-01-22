@@ -1,0 +1,40 @@
+.contact__block{
+  display: flex;
+  justify-content: space-between;
+  .contact__info{
+    flex: 0 0 25%;
+    color: white;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 31px;
+    .contact__row{
+      margin-bottom: 40px;
+      &:nth-child(2n){
+        margin-bottom: 60px;
+      }
+      &:last-child{
+        margin-bottom: 0;
+      }
+    }
+  }
+  .contact__map{
+    flex: 0 0 65%;
+    #contact_map{
+      height: 100%;
+    }
+  }
+}
+@media (max-width: 1024px){
+  .contact__block{
+    display: block;
+    .contact__info, .contact__map{
+      display: block;
+    }
+    .contact__map{
+      margin-top: 40px;
+      height: 40vmax;
+    }
+  }
+}

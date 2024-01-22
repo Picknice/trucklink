@@ -1,0 +1,132 @@
+.application-filter {
+    background: #131A24;
+
+    border: 1.5px solid #17212B;
+
+    color: #6E7B8B;
+
+    overflow: hidden;
+
+    input::placeholder {
+        color: #6E7B8B;
+    }
+
+    & > * {
+        height: 4.75rem;
+
+        &:first-child {
+            border-radius: 0.5rem 0 0 0.5rem;
+        }
+
+        &:last-child {
+            border-radius: 0 0.5rem 0.5rem 0;
+        }
+    }
+}
+
+.application-filter_select {
+    transition: 200ms;
+
+    height: 100%;
+
+    &._active {
+        box-shadow: 0px 7px 13px rgba(255, 255, 255, 0.25);
+
+        .application-filter_select__options {
+            box-shadow: 0px 7px 13px rgba(255, 255, 255, 0.25);
+        }
+    }
+}
+
+.application-filter_select__content {
+    height: 100%;
+}
+
+.application-filter_select-block {
+    height: 100%;
+}
+
+.application-filter_select__input {
+    background: transparent;
+    
+    text-decoration: underline;
+
+    height: 100%;
+}
+
+.application-filter_input__block {
+    display: flex;
+    align-items: center;
+
+    position: relative;
+
+    height: 100%;
+
+    svg {
+        position: absolute;
+        left: 2rem;
+    }
+}
+
+// .input__block {
+//     display: flex;
+//     align-items: center;
+
+//     height: 100%;
+// }
+
+.application-filter_input {
+    background: transparent;
+
+    color: #fff;
+
+    text-decoration: underline;
+
+    padding: 0 1rem;
+
+    height: 100%;
+
+    &._city {
+        padding: 0 1rem 0 3.75rem;
+    }
+}
+
+.application-filter_select__options {
+    transition: 200ms;
+}
+
+.application-filter_select__option {
+    background: #131a24;
+
+    transition: 200ms;
+
+    &:hover {
+        background: #1b2c3e;
+    }
+}
+
+.application-filter__date_input {
+    background: transparent;
+
+    &::placeholder {
+        color: #6E7B8B;
+    }
+}
+
+.filter__all {
+    padding-left: 1rem;
+}
+
+.application-filter__button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 0.25rem;
+
+    width: 100%;
+    height: 100%;
+}
+
+.input_dates {
+    width: 100% !important;
+}

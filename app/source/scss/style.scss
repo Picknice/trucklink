@@ -1,0 +1,67 @@
+@charset "utf-8";
+@import './reset';
+@import './UI';
+@import './layout';
+@import './fonts';
+@import './vars';
+@import './pages'; 
+@import './animations';
+
+html, body {
+    background: #131a24;
+
+    color: #fff;
+
+    font-family: 'Inter', Arial;
+    font-size: 16px;
+    min-width: 320px;
+    overflow-x: hidden;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+
+
+    min-height: 100vh;
+}
+
+.main {
+    z-index: 2;
+    flex: 1 0 auto;
+}
+
+button,
+input {
+    font-family: 'Inter', Arial;
+}
+.privacy{
+    h1{
+        margin-top: 3rem;
+        margin-bottom: 2rem;
+    }
+}
+
+@media (max-width: 1650px) {
+    html, body {
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 1440px) {
+    html, body {
+        font-size: 14px;
+    }
+}
+.recaptcha{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    grid-column: 2/3;
+    .g-recaptcha {
+        &._error {
+            border: 1px solid #8a1d1d;
+            border-radius: 2px;
+        }
+    }
+}

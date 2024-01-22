@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://trucklink.cc/</loc>
+		<lastmod>2022-12-24T21:09:08+01:00</lastmod>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>https://trucklink.cc/login</loc>
+		<lastmod>2022-12-24T21:09:08+01:00</lastmod>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>https://trucklink.cc/signup</loc>
+		<lastmod>2022-12-24T21:09:08+01:00</lastmod>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>https://trucklink.cc/policy</loc>
+		<lastmod>2022-12-24T21:09:08+01:00</lastmod>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>https://trucklink.cc/contact</loc>
+		<lastmod>2022-12-24T21:09:08+01:00</lastmod>
+		<priority>1.0</priority>
+	</url>
+</urlset>
